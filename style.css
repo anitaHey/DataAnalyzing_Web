@@ -1,0 +1,390 @@
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
+nav {
+    height: 130px;
+}
+
+.content_word {
+    font-size: 24px;
+}
+
+.nav_sm_word {
+    font-size: 22px;
+}
+
+.nav_word {
+    font-size: 26px;
+}
+
+.navbar {
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+}
+
+.nav_color {
+    color: #ebedec;
+}
+
+.nav_other_color {
+    color: #393E46;
+}
+
+.nav-item:hover {
+    color: #505050;
+}
+
+.bg-height {
+    height: 100%;
+}
+
+.title {
+    color: #ebedec;
+    background-color: transparent;
+    font-size: 100px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    width: auto;
+    white-space: nowrap;
+    overflow: hidden;
+    font-family: 'Teko', sans-serif;
+    word-spacing: 20px;
+}
+
+.border_right {
+    border-right: 2px solid rgba(255, 255, 255, .75);
+}
+
+.border_left {
+    padding-left: 10px;
+    border-left: 8px solid #363236;
+}
+
+.color_brown {
+    color: #725f5a;
+    border-color: #725f5a;
+}
+
+.color_green {
+    color: #5B6044;
+}
+
+.word_green {
+    color: #383b2a;
+}
+
+.word_green:hover {
+    color: #747a57;
+}
+
+.title1 {
+    top: 40%;
+}
+
+.title2 {
+    top: 55%;
+}
+
+.whole_page {
+    height: 100vh;
+    position: relative;
+}
+
+.min_whole_page {
+    position: relative;
+    top: 2vh;
+    min-height: 100vh;
+
+}
+
+.other_place {
+    position: absolute;
+    left: 15%;
+    top: 20%;
+    display: inline-block;
+}
+
+.footer {
+    position: relative;
+    height: 5vh;
+    background-color: #4d4841;
+}
+
+.big_word {
+    font-size: 60px;
+}
+
+.content {
+    position: relative;
+}
+
+.line {
+    border-top: 1px solid #8c8b8b;
+}
+
+.about_word {
+    position: absolute;
+    left: 13%;
+    top: 30%;
+}
+
+.other_word {
+    position: relative;
+    -webkit-filter: drop-shadow(6px 6px 4px rgba(163, 147, 145, 0.5));
+    filter: drop-shadow(6px 6px 4px rgba(163, 147, 145, 0.5))
+}
+
+.company_word {
+    font-size: 40px;
+    border-bottom: 2px
+}
+
+.item_block {
+    position: absolute;
+    left: 37%;
+    top: 23%;
+    width: 55vw;
+    height: 60vh;
+}
+
+.other_bolck {
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    /*border: 2px solid #8f9299;*/
+    width: 60vw;
+    height: 800px;
+}
+
+.page {
+    height: 60vh;
+    margin-left: 5px;
+}
+
+.carousel-inner,
+.carousel-item {
+    height: 60vh;
+    margin: 0;
+}
+
+.carousel-indicators li {
+    background-color: #313131;
+    height: 5px;
+}
+
+.carousel-control i {
+    color: #313131;
+}
+
+.carousel-indicators .active {
+    background-color: #a39e9e;
+}
+
+.person {
+    height: 100%;
+    width: 32%;
+    margin-left: 10px;
+    border: 2px solid #dadada;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.item {
+    height: 100%;
+    width: 100%;
+    border: 2px solid #dadada;
+    background-color: #EFEFEF;
+}
+
+.carousel-control {
+    z-index: 1;
+}
+
+.down {
+    position: absolute;
+    left: 50%;
+    top: 85%;
+    transform: translateX(-50%);
+    z-index: 1;
+    height: 70px;
+    width: 70px;
+    background-color: transparent;
+    border-radius: 35px;
+    border-color: transparent;
+    outline: none;
+    -webkit-appearance: none;
+}
+
+.down:focus {
+    outline: none;
+    -webkit-appearance: none;
+}
+
+.down:hover {
+    background-color: #949494;
+}
+
+.down_icon {
+    position: relative;
+    float: center;
+    top: -10px;
+}
+
+#introduction {
+    font-family: 'Play', sans-serif;
+    position: relative;
+    top: 15vh;
+    width: 65vw;
+    left: 50vw;
+    transform: translateX(-50%);
+    line-height: 60px;
+    letter-spacing: 1.5px;
+}
+
+.other_introduction {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 70vw;
+}
+
+.third {
+    background-color: rgba(194, 186, 176, 0.5);
+}
+
+.bookmark {
+    margin-top: 50px;
+}
+
+.button_up {
+    z-index: 1;
+    position: fixed;
+    bottom: 5vh;
+    right: 2vw;
+    background-color: transparent;
+    outline: none;
+    -webkit-appearance: none;
+}
+
+.button_up:focus {
+    outline: none;
+    -webkit-appearance: none;
+}
+
+.button_up:hover {
+    color: #939c6d;
+}
+
+.search {
+    font-size: 24px;
+    margin-top: 30px;
+    height: 100vh;
+}
+
+select {
+    background-image:
+        linear-gradient(45deg, transparent 50%, #4C4C4E 50%),
+        linear-gradient(135deg, #4C4C4E 50%, transparent 50%);
+    background-position:
+        calc(100% - 20px) calc(1em + 2px),
+        calc(100% - 15px) calc(1em + 2px);
+    background-size:
+        5px 5px,
+        5px 5px,
+        1px 1.5em;
+    background-repeat: no-repeat;
+
+    margin-left: 20px;
+    width: auto;
+    height: 50px;
+    border: 0;
+    border-bottom: 1px solid #4C4C4E;
+
+    padding-left: 10px;
+    padding-right: 50px;
+
+    outline: none;
+    -webkit-appearance: none;
+}
+
+select:focus {
+    background-image:
+        linear-gradient(45deg, transparent 50%, #8d776e 50%),
+        linear-gradient(135deg, #8d776e 50%, transparent 50%);
+    background-position:
+        calc(100% - 20px) calc(1em + 2px),
+        calc(100% - 15px) calc(1em + 2px);
+    background-size:
+        5px 5px,
+        5px 5px,
+        1px 1.5em;
+    background-repeat: no-repeat;
+    border-color: #8d776e;
+    outline: 0;
+}
+
+.container {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: text-top;
+}
+
+
+.container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+
+
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+}
+
+.container:hover input~.checkmark {
+    background-color: #ccc;
+}
+
+.container input:checked~.checkmark {
+    background-color: #736666;
+}
+
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+.container input:checked~.checkmark:after {
+    display: block;
+}
+
+.container .checkmark:after {
+    left: 9px;
+    top: 5px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
