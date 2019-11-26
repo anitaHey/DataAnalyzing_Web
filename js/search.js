@@ -24,7 +24,6 @@ $(document).ready(function() {
     var radios = document.querySelectorAll('.search_result > div > .radio-group > input[type=radio][name="selector"]');
 
     function changeHandler(event) {
-        console.log("aaaa");
         $('#facebook_search_table').addClass('hide');
         $('#google_search_table').addClass('hide');
         $('#apple_search_table').addClass('hide');
@@ -43,6 +42,8 @@ $(document).ready(function() {
     });
 
     $("#search_btn").click(function() {
+        $('#apple_search_table').html('<div class="wait"><div class="loader"></div></div>');
+
         var apple_data, facebook_data, google_data;
         var search_array_apple = new Array();
         var search_array_facebook = new Array();
@@ -79,7 +80,7 @@ $(document).ready(function() {
                     if (!check) continue;
 
                     if (work != 'ALL') {
-                        check = parseInt(apple_data[num].min_work_exp_req) <= work || parseInt(apple_data[num].pref_work_exp_req) <= work || parseInt(apple_data[num].min_work_exp_req) == 0;
+                        check = parseInt(apple_data[num].min_work_exp_req) <= work || parseInt(apple_data[num].min_work_exp_req) == 0;
                     }
                     if (!check) continue;
 
@@ -142,7 +143,7 @@ $(document).ready(function() {
                     if (!check) continue;
 
                     if (work != 'ALL') {
-                        check = parseInt(facebook_data[num].min_work_exp_req) <= work || parseInt(facebook_data[num].pref_work_exp_req) <= work || parseInt(facebook_data[num].min_work_exp_req) == 0;
+                        check = parseInt(facebook_data[num].min_work_exp_req) <= work || parseInt(facebook_data[num].min_work_exp_req) == 0;
                     }
                     if (!check) continue;
 
@@ -206,7 +207,7 @@ $(document).ready(function() {
                     if (!check) continue;
 
                     if (work != 'ALL') {
-                        check = parseInt(google_data[num].min_work_exp_req) <= work || parseInt(google_data[num].pref_work_exp_req) <= work || parseInt(google_data[num].min_work_exp_req) == 0;
+                        check = parseInt(google_data[num].min_work_exp_req) <= work|| parseInt(google_data[num].min_work_exp_req) == 0;
                     }
                     if (!check) continue;
 
@@ -252,6 +253,8 @@ $(document).ready(function() {
                 table_create("google", search_array_google);
             }
         });
+
+        TweenMax.to(window, 2.5, { scrollTo: { y: $('.search_result').offset().top }, ease: Expo.easeOut, y: -500 });
     });
 
 
@@ -341,6 +344,7 @@ $(document).ready(function() {
                 $('#' + company + '_next').attr('disabled', false);
                 $('#' + company + '_previous').attr('disabled', false);
             }
+            TweenMax.to(window, 2, { scrollTo: { y: $('.search_result').offset().top }, ease: Expo.easeOut, y: -500 });
         }
     }
 });

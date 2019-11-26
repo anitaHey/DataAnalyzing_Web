@@ -1,3 +1,5 @@
+/** For all html **/
+
 body {
     font-family: 'Kanit', sans-serif;
 }
@@ -18,7 +20,7 @@ nav {
     font-size: 26px;
 }
 
-.sm_word{
+.sm_word {
     font-size: 19px;
 }
 
@@ -27,6 +29,11 @@ nav {
     top: 0;
     z-index: 1;
     width: 100%;
+}
+
+.hide {
+    opacity: 0;
+    display: none;
 }
 
 .nav_color {
@@ -164,6 +171,79 @@ nav {
     height: 800px;
 }
 
+.other_introduction {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 70vw;
+}
+
+.button_up {
+    z-index: 1;
+    position: fixed;
+    bottom: 5vh;
+    right: 2vw;
+    background-color: transparent;
+    outline: none;
+    -webkit-appearance: none;
+}
+
+.button_up:focus {
+    outline: none;
+    -webkit-appearance: none;
+}
+
+.button_up:hover {
+    color: #939c6d;
+}
+
+.bookmark {
+    margin-top: 50px;
+}
+
+
+/** index.html **/
+
+#introduction {
+    font-family: 'Play', sans-serif;
+    position: relative;
+    top: 15vh;
+    width: 65vw;
+    left: 50vw;
+    transform: translateX(-50%);
+    line-height: 60px;
+    letter-spacing: 1.5px;
+}
+
+.down {
+    position: absolute;
+    left: 50%;
+    top: 85%;
+    transform: translateX(-50%);
+    z-index: 1;
+    height: 70px;
+    width: 70px;
+    background-color: transparent;
+    border-radius: 35px;
+    border-color: transparent;
+    outline: none;
+    -webkit-appearance: none;
+}
+
+.down:focus {
+    outline: none;
+    -webkit-appearance: none;
+}
+
+.down:hover {
+    background-color: #949494;
+}
+
+.down_icon {
+    position: relative;
+    float: center;
+    top: -10px;
+}
+
 .page {
     height: 60vh;
     margin-left: 5px;
@@ -207,79 +287,12 @@ nav {
     z-index: 1;
 }
 
-.down {
-    position: absolute;
-    left: 50%;
-    top: 85%;
-    transform: translateX(-50%);
-    z-index: 1;
-    height: 70px;
-    width: 70px;
-    background-color: transparent;
-    border-radius: 35px;
-    border-color: transparent;
-    outline: none;
-    -webkit-appearance: none;
-}
-
-.down:focus {
-    outline: none;
-    -webkit-appearance: none;
-}
-
-.down:hover {
-    background-color: #949494;
-}
-
-.down_icon {
-    position: relative;
-    float: center;
-    top: -10px;
-}
-
-#introduction {
-    font-family: 'Play', sans-serif;
-    position: relative;
-    top: 15vh;
-    width: 65vw;
-    left: 50vw;
-    transform: translateX(-50%);
-    line-height: 60px;
-    letter-spacing: 1.5px;
-}
-
-.other_introduction {
-    margin-top: 50px;
-    margin-bottom: 50px;
-    width: 70vw;
-}
-
 .third {
     background-color: rgba(194, 186, 176, 0.5);
 }
 
-.bookmark {
-    margin-top: 50px;
-}
 
-.button_up {
-    z-index: 1;
-    position: fixed;
-    bottom: 5vh;
-    right: 2vw;
-    background-color: transparent;
-    outline: none;
-    -webkit-appearance: none;
-}
-
-.button_up:focus {
-    outline: none;
-    -webkit-appearance: none;
-}
-
-.button_up:hover {
-    color: #939c6d;
-}
+/** search.html **/
 
 .search,
 .search_result {
@@ -393,10 +406,7 @@ select:focus {
     transform: rotate(45deg);
 }
 
-.hide {
-    opacity: 0;
-    display: none;
-}
+
 
 .search_result input[type=radio] {
     position: absolute;
@@ -426,39 +436,68 @@ select:focus {
     border: 2px solid #eaeaea;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
     padding-left: 10px;
-    margin-top: 10px;
+    margin-top: 15px;
 }
 
 .search_div:hover {
     background-color: #eaeaea;
 }
-.search_div i{
+
+.search_div i {
     margin-right: 8px;
 }
 
-.search_div .row i{
-    color:#725f5a;
+.search_div .row i {
+    color: #725f5a;
 }
 
-.search_div_name{
+.search_div_name {
     font-size: 24px;
-    margin:5px 2px;
+    margin: 5px 2px;
 }
 
-.search_div_loc{
+.search_div_loc {
     font-size: 16px;
     padding-bottom: 3px;
     color: #716e77;
 }
 
-.search_result select{
-    color:#513533;
-    border-top:2px solid #b9a795;
-    border-bottom:2px solid #b9a795;
-    margin:0;
+.search_result select {
+    color: #513533;
+    border-top: 2px solid #b9a795;
+    border-bottom: 2px solid #b9a795;
+    margin: 0;
 }
 
-.search_result .page-link{
-    border:2px solid #b9a795;
+.search_result .page-link {
+    border: 2px solid #b9a795;
     color: #b9a795;
+}
+
+.wait {
+    position: relative;
+    height: 500px;
+}
+
+.loader {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 8px solid #f3f3f3;
+    border-top: 8px solid #bab8bd;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
 }
