@@ -137,8 +137,98 @@
                         </div>
                     </div>
                 </div>
+                <div class="location_select mb-5">
+                    Continent
+                    <select id="continent" class="dropdown mr-5">
+                        <option value="-1">ALL</option>
+                        <option value="0">Asia</option>
+                        <option value="1">Europe</option>
+                        <option value="2">America</option>
+                        <option value="3">Africa</option>
+                        <option value="4">Oceania</option>
+                    </select>
+                    Country
+                    <select id="ALL" class="dropdown country">
+                        <option value="-1">ALL</option>
+                    </select>
+                    <select id="Asia" class="dropdown country hide">
+                        <option value="-1">ALL</option>
+                        <option value="0">Taiwan</option>
+                        <option value="1">India</option>
+                        <option value="2">Singapore</option>
+                        <option value="3">Israel</option>
+                        <option value="4">Japan</option>
+                        <option value="5">Hong Kong</option>
+                        <option value="6">China</option>
+                        <option value="7">Russia</option>
+                        <option value="8">Vietnam</option>
+                        <option value="9">South Korea</option>
+                        <option value="10">Malaysia</option>
+                        <option value="11">Indonesia</option>
+                    </select>
+                    <select id="Europe" class="dropdown country hide">
+                        <option value="-1">ALL</option>
+                        <option value="0">Czechia</option>
+                        <option value="1">United Kingdom</option>
+                        <option value="2">Ireland</option>
+                        <option value="3">Germany</option>
+                        <option value="4">Sweden</option>
+                        <option value="5">Switzerland</option>
+                        <option value="6">Spain</option>
+                        <option value="7">Denmark</option>
+                        <option value="8">France</option>
+                        <option value="9">Netherlands</option>
+                        <option value="10">Belgium</option>
+                        <option value="11">Croatia</option>
+                        <option value="12">Bulgaria</option>
+                        <option value="13">Hungary</option>
+                        <option value="14">Slovenia</option>
+                        <option value="15">Portugal</option>
+                        <option value="16">Poland</option>
+                        <option value="17">Romania</option>
+                        <option value="18">Italy</option>
+                        <option value="19">Austria</option>
+                        <option value="20">Slovakia</option>
+                    </select>
+                    <select id="America" class="dropdown country hide">
+                        <option value="-1">ALL</option>
+                        <option value="0">United States</option>
+                        <option value="1">Canada</option>
+                        <option value="2">Mexico</option>
+                        <option value="3">Brazil</option>
+                        <option value="4">Argentina</option>
+                        <option value="5">Colombia</option>
+                        <option value="6">Chile</option>
+                        <option value="7">Argentina</option>
+                    </select>
+                    <select id="Africa" class="dropdown country hide">
+                        <option value="-1">ALL</option>
+                        <option value="0">Ghana</option>
+                        <option value="1">South Africa</option>
+                    </select>
+                    <select id="Oceania" class="dropdown country hide">
+                        <option value="-1">ALL</option>
+                        <option value="0">Australia</option>
+                    </select>
+                </div>
+                <button id="search_btn" type="button" class="btn btn-secondary btn-lg">Search</button>
+            </div>
+            <hr class="line" />
+            <div class="search_result">
+                <div class="choose_company d-flex justify-content-start">
+                    <span>Company</span>
+                    <div class="radio-group ml-5">
+                        <input type="radio" id="option-one" name="selector" class="content_word" checked value="apple"><label for="option-one">Apple(<span id="apple_len">0</span>)</label>
+                        <input type="radio" id="option-two" name="selector" class="content_word" value="google"><label for="option-two">Google(<span id="google_len">0</span>)</label>
+                        <input type="radio" id="option-three" name="selector" class="content_word" value="facebook"><label for="option-three">Facebook(<span id="facebook_len">0</span>)</label>
+                    </div>
+                </div>
+                <div id="apple_search_table" class="mt-5 sm_word"></div>
+                <div id="facebook_search_table" class="mt-5 sm_word hide"></div>
+                <div id="google_search_table" class="mt-5 sm_word hide"></div>
             </div>
         </div>
+    </div>
     </div>
     <script src="../tool/jquery-3.3.1.min.js"></script>
     <script src="../tool/bootstrap-4.0.0/dist/js/bootstrap.min.js"></script>
@@ -147,7 +237,9 @@
     <script src="../tool/greensock-js/src/minified/TweenMax.min.js"></script>
     <script src="../tool/greensock-js/src/minified/plugins/ScrollToPlugin.min.js"></script>
     <script src="../tool/SplitText.min.js"></script>
+    <script src="../tool/jquery.csv.min.js"></script>
     <script src="../js/other.js"></script>
+    <script src="../js/search.js"></script>
 </body>
 
 </html>

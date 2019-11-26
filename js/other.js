@@ -14,16 +14,4 @@ $(document).ready(function() {
     $(".button_up").click(function() {
         TweenMax.to(window, 2.5, { scrollTo: { y: $('.navbar').offset().top }, ease: Expo.easeOut, y: -500 });
     });
-
-    $("#select_all > input").click(function() {
-        if ($("#select_all > input").prop('checked')) {
-            $(".programming_select > div > label > input").each(function(index, element) {
-                $(this).prop("checked", true);
-            });
-        } else {
-            $(".programming_select > div > label > input").each(function(index, element) {
-                $(this).prop("checked", false);
-            });
-        }
-    });
 });
