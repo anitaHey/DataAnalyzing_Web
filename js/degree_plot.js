@@ -1,4 +1,3 @@
-//var data = Papa.parse("apple_job.csv_new.csv");
 var apple_data = getCsv("../data/csv/apple_jobs.csv_new.csv");
 var google_data = getCsv("../data/csv/google_jobs.csv_new.csv");
 var facebook_data = getCsv("../data/csv/facebook_jobs.csv_new.csv");
@@ -47,15 +46,32 @@ function get_y_chart(df,keywords,degree){
 }
 
 $("#option-two").click(function(){
-    Plotly.newPlot(apple_degree, apple_pre_chart);
-    Plotly.newPlot(google_degree, google_pre_chart);
-    Plotly.newPlot(facebook_degree, facebook_pre_chart);
+    Plotly.newPlot(apple_degree, apple_pre_chart, pre_layout);
+    Plotly.newPlot(google_degree, google_pre_chart, pre_layout);
+    Plotly.newPlot(facebook_degree, facebook_pre_chart, pre_layout);
 })
 $("#option-one").click(function(){
-    Plotly.newPlot(apple_degree, apple_min_chart);
-    Plotly.newPlot(google_degree, google_min_chart);
-    Plotly.newPlot(facebook_degree, facebook_min_chart);
+    Plotly.newPlot(apple_degree, apple_min_chart, min_layout);
+    Plotly.newPlot(google_degree, google_min_chart, min_layout);
+    Plotly.newPlot(facebook_degree, facebook_min_chart, min_layout);
 })
+
+var min_layout = {
+  title: 'Minimum Degree',
+  xaxis: {
+    title: 'Degree',
+    type: 'category',
+    tickangle: -20
+  },
+};
+var pre_layout = {
+  title: 'Preference Degree',
+  xaxis: {
+    title: 'Degree',
+    type: 'category',
+    tickangle: -20
+  },
+};
 
 
 apple_degree = document.getElementById('apple_degree');
@@ -64,7 +80,7 @@ var apple_min_chart = [
     x: keywords,
     y: get_y_chart(apple_min_degree_reqs,keywords),
     type: 'bar',
-    width: 0.5
+    width: 0.4
   }
 ];
 var apple_pre_chart = [
@@ -72,10 +88,10 @@ var apple_pre_chart = [
     x: keywords,
     y: get_y_chart(apple_pref_degree_reqs,keywords),
     type: 'bar',
-    width: 0.5
+    width: 0.4
   }
 ];
-Plotly.newPlot(apple_degree, apple_min_chart);
+Plotly.newPlot(apple_degree, apple_min_chart, min_layout);
 
 google_degree = document.getElementById('google_degree');
 var google_min_chart = [
@@ -83,7 +99,7 @@ var google_min_chart = [
     x: keywords,
     y: get_y_chart(google_min_degree_reqs,keywords),
     type: 'bar',
-    width: 0.5
+    width: 0.4
   }
 ];
 var google_pre_chart = [
@@ -91,10 +107,10 @@ var google_pre_chart = [
     x: keywords,
     y: get_y_chart(google_pref_degree_reqs,keywords),
     type: 'bar',
-    width: 0.5
+    width: 0.4
   }
 ];
-Plotly.newPlot(google_degree, google_min_chart);
+Plotly.newPlot(google_degree, google_min_chart,min_layout);
 
 facebook_degree = document.getElementById('facebook_degree');
 var facebook_min_chart = [
@@ -102,7 +118,7 @@ var facebook_min_chart = [
     x: keywords,
     y: get_y_chart(facebook_min_degree_reqs,keywords),
     type: 'bar',
-    width: 0.5
+    width: 0.4
   }
 ];
 var facebook_pre_chart = [
@@ -110,9 +126,9 @@ var facebook_pre_chart = [
     x: keywords,
     y: get_y_chart(facebook_pref_degree_reqs,keywords),
     type: 'bar',
-    width: 0.5
+    width: 0.4
   }
 ];
-Plotly.newPlot(facebook_degree, facebook_min_chart);
+Plotly.newPlot(facebook_degree, facebook_min_chart,min_layout);
 
 
