@@ -46,9 +46,20 @@ function get_y_chart(df,keywords,degree){
     return y_chart;
 }
 
+$("#option-two").click(function(){
+    Plotly.newPlot(apple_degree, apple_pre_chart);
+    Plotly.newPlot(google_degree, google_pre_chart);
+    Plotly.newPlot(facebook_degree, facebook_pre_chart);
+})
+$("#option-one").click(function(){
+    Plotly.newPlot(apple_degree, apple_min_chart);
+    Plotly.newPlot(google_degree, google_min_chart);
+    Plotly.newPlot(facebook_degree, facebook_min_chart);
+})
+
 
 apple_degree = document.getElementById('apple_degree');
-var apple_chart = [
+var apple_min_chart = [
   {
     x: keywords,
     y: get_y_chart(apple_min_degree_reqs,keywords),
@@ -56,10 +67,18 @@ var apple_chart = [
     width: 0.5
   }
 ];
-Plotly.newPlot(apple_degree, apple_chart);
+var apple_pre_chart = [
+  {
+    x: keywords,
+    y: get_y_chart(apple_pref_degree_reqs,keywords),
+    type: 'bar',
+    width: 0.5
+  }
+];
+Plotly.newPlot(apple_degree, apple_min_chart);
 
 google_degree = document.getElementById('google_degree');
-var google_chart = [
+var google_min_chart = [
   {
     x: keywords,
     y: get_y_chart(google_min_degree_reqs,keywords),
@@ -67,10 +86,18 @@ var google_chart = [
     width: 0.5
   }
 ];
-Plotly.newPlot(google_degree, google_chart);
+var google_pre_chart = [
+  {
+    x: keywords,
+    y: get_y_chart(google_pref_degree_reqs,keywords),
+    type: 'bar',
+    width: 0.5
+  }
+];
+Plotly.newPlot(google_degree, google_min_chart);
 
 facebook_degree = document.getElementById('facebook_degree');
-var facebook_chart = [
+var facebook_min_chart = [
   {
     x: keywords,
     y: get_y_chart(facebook_min_degree_reqs,keywords),
@@ -78,6 +105,14 @@ var facebook_chart = [
     width: 0.5
   }
 ];
-Plotly.newPlot(facebook_degree, facebook_chart);
+var facebook_pre_chart = [
+  {
+    x: keywords,
+    y: get_y_chart(facebook_pref_degree_reqs,keywords),
+    type: 'bar',
+    width: 0.5
+  }
+];
+Plotly.newPlot(facebook_degree, facebook_min_chart);
 
 
