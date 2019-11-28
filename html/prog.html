@@ -42,24 +42,33 @@
                     <button id="btn_google" class="btn btn-link word_green ml-5 content_word">Google</button>
                     <button id="btn_apple" class="btn btn-link word_green ml-5 content_word">Apple</button>
                     <button id="btn_facebook" class="btn btn-link word_green ml-5 content_word">Facebook</button>
+                    <div class="search_result radio-group ml-5" style="display:inline;">
+                            <input type="radio" id="option-one" name="selector" class="content_word" checked value="min"><label for="option-one">Min Prog</label>
+                            <input type="radio" id="option-two" name="selector" class="content_word" value="pre"><label for="option-two">Prefer Prog</label>
+                    </div>
                 </div>
             </div>
             <hr class="line" />
             <div class="other_bolck">
                 <div id="google" class="company_word">Google</div>
+                <div id="google_prog" style="width:900px;height:600px;"></div>
             </div>
             <hr class="line" />
             <div class="other_bolck">
                 <div id="apple" class="company_word">Apple</div>
+                <div id="apple_prog" style="width:900px;height:600px;"></div>
             </div>
             <hr class="line" />
             <div class="other_bolck">
                 <div id="facebook" class="company_word">Facebook</div>
+                <div id="facebook_prog" style="width:900px;height:600px;"></div>
             </div>
         </div>
         
     </div>
     <script src="../tool/jquery-3.3.1.min.js"></script>
+    <script src="../tool/jquery.csv.min.js"></script>
+    <script src="../tool/plotly-latest.min.js"></script>
     <script src="../tool/bootstrap-4.0.0/dist/js/bootstrap.min.js"></script>
     <script src="../tool/particles.min.js"></script>
     <script src="../tool/stats.min.js"></script>
@@ -67,6 +76,7 @@
     <script src="../tool/greensock-js/src/minified/plugins/ScrollToPlugin.min.js"></script>
     <script src="../tool/SplitText.min.js"></script>
     <script src="../js/other.js"></script>
+    <script src="../js/prog_plot.js"></script>
 </body>
 
 </html>
