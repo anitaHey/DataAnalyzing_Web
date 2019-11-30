@@ -245,7 +245,7 @@ Experience with Android Open Source Project (AOSP) product development","Lead/co
 Design and build advanced automated build, test, release and operations infrastructure
 Drive adoption of best practices in code health, testing, and maintainability
 Analyze and decompose complex software systems and collaborate with cross-functional teams to influence design for testability
-Develop and support processes to maintain uptime, SLAs and availability of critical platform components",BS,PhD,5,0,None,"Java,Python,PHP,SQL"
+Develop and support processes to maintain uptime, SLAs and availability of critical platform components",BS,PhD,5,0,None,"Java,Python,JavaScript,PHP,SQL"
 16,Software Engineer - Graphics,"Redmond, WA","BS degree in Computer Science or related field
 5+ years C++ experience
 5+ years experience creating software for games or real-time systems
@@ -447,7 +447,7 @@ Oversee development and implement productivity software tools based on data anal
 Oversee development of software solutions and integrate them with advanced analytical models built by the core data science team and deploy them in the IDC operations.
 Help scale and optimize our overall data center capacity by developing cutting edge tools which improve efficiency and bring automation to our data centers.
 Partner with the operational & engineering teams in order to implement, verify and iterate on the analytical solutions being developed.
-Lead and support various ad hoc projects, as needed, in support of Facebook’s Infrastructure strategy.",Bachelor,PhD,3,0,"C++,Java,Python,PHP",SQL
+Lead and support various ad hoc projects, as needed, in support of Facebook’s Infrastructure strategy.",Bachelor,PhD,3,0,"C++,Java,Python,JavaScript,PHP",SQL
 30,Software Engineer - Developer Infrastructure,"Redmond, WA","4+ years experience working in large-scale C++ code base.
 Demonstrated knowledge with API design in the context of large-scale software systems.
 Experience with more than one software infrastructure libraries (e.g. STL, APR, GLib, Boost, etc.).
@@ -896,7 +896,7 @@ Establish a solid project framework and excellent development processes.
 Drive an excellent customer experience, continually raising the bar on functionality, usability, and simplicity.
 Set clear expectations and create a positive work environment based on accountability, in collaboration with the engineering and management teams.
 Operate strategically and tactically.
-Work on strategy and help set direction while staying on top of the day-to-day software development.",None,None,3,2,"C++,Java",None
+Work on strategy and help set direction while staying on top of the day-to-day software development.",None,None,3,2,"C++,Java,JavaScript",None
 65,Software Engineering Manager - Core Infra Security,"Seattle, WA","Experience as a software engineer
 Experience recruiting and managing technical teams, including performance management
 Experience managing programs that require management team support and buy-in
@@ -1236,7 +1236,7 @@ Working knowledge of API design and distributed backend systems.
 2+ years experience developing multi-tiered web apps.","Full-stack product/systems development with a variety of languages such as C++, Java, PHP, JavaScript, etc.
 Work closely with product management and UX design teams to define and refine feature specifications.
 Design and develop front-end interfaces, underlying APIs, and backend systems across a number of programming languages with focus on JavaScript, React and PHP (Hack).
-Learn, learn and learn.",None,Bachelor,2,2,"C++,Java,Python,PHP,Ruby",SQL
+Learn, learn and learn.",None,Bachelor,2,2,"C++,Java,Python,JavaScript,PHP,Ruby",SQL
 97,"Manager, Software Engineering","Boston, MA","5+ years of software engineering work experience, including hands-on technical management
 5+ years coding experience in one of the following languages: C++, Java, and/or PHP
 Experience recruiting and managing technical teams, including performance management
@@ -1353,7 +1353,7 @@ Extend Chromium to adopt new capabilities and implement new web APIs
 Design and implement features with an emphasis on performance and security
 Collaborate with our engineering manager, technical lead, and product manager to scope, cost, and implement new browser features
 Collaborate with Oculus platform teams, first and third party partners, and the web community
-Mentor less experienced engineers",None,None,4,0,"C++,Java",None
+Mentor less experienced engineers",None,None,4,0,"C++,Java,JavaScript",None
 108,Software Engineering Manager - Program Analysis,"Menlo Park, CA","8+ years of work experience in software or security engineering, including 3+ years of proven hands-on technical management experience of software engineers and software engineering managers
 BS/MS in Computer Science or equivalent experience","Experience with security-related projects
 Exposure to performing scalable security work","Manage a team of engineers developing security solutions across Facebook products and services
@@ -1441,7 +1441,7 @@ Drive customer experience, continually raising the bar on functionality, usabili
 Champion engineering and operations, establishing metrics and process for regular assessment and improvement.
 Establish a solid project framework and development processes.
 Provide technical leadership and guidance to both your team members and your project peers.
-Set clear expectations and create a positive work environment based on accountability, in collaboration with the engineering and management teams.",None,None,10,0,"C++,Java",None
+Set clear expectations and create a positive work environment based on accountability, in collaboration with the engineering and management teams.",None,None,10,0,"C++,Java,JavaScript",None
 116,"Manager, Software Engineering, AR/VR - Spatial Computing Runtime","Seattle, WA","5+ years of experience with C/C++ programming, including experience with low-level systems work.
 5+ years of work experience developing and releasing software products on at least one PC, console, or mobile platform.
 3+ years of experience managing engineering teams including hiring/termination and performance management.
@@ -1696,7 +1696,7 @@ Analyze and optimize UI and back-end application code for efficiency and perform
 BS/MS in Computer Science or a related technical field","Implement the features and user interfaces of Facebook products like News Feed
 Architect efficient and reusable front-end systems that drive complex web applications
 Collaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling user-facing products
-Identify and resolve performance and scalability issues",None,BS,5,0,Java,None
+Identify and resolve performance and scalability issues",None,BS,5,0,"Java,JavaScript",None
 139,"Software Engineer, Mobile","Tel Aviv, Israel","5+ years of previous work experience, or B.Sc. or M.Sc. in Computer Science or related field
 2+ years of industry mobile application development experience
 3+ years of object-oriented software development experience
@@ -1934,7 +1934,7 @@ BS / MS in Computer Science (In lieu of degree, relevant work experience).",,"Be
 Communicate across functions and drive engineering initiatives
 Participate in technical design
 Be a subject matter expert in a product domain
-Define and influence product strategy",BS,None,0,0,"C++,Java,Javascript,PHP",None
+Define and influence product strategy",BS,None,0,0,"C++,Java,PHP",None
 161,"Software Engineer, Programming Languages","Menlo Park, CA","6+ years coding experience in OCaml, Haskell, F#, Java, C#, and/or C/C++
 2+ years experience building scalable languages, libraries, and tools
 B.S. in Computer Science or related technical field","Experience with programming language design, program analysis, type systems, compilers, operating systems, file systems, and distributed systems
@@ -1943,7 +1943,7 @@ M.S. or Ph.D. in Computer Science or related technical field","Envision, design,
 Code using primarily OCaml, C/C++
 Interface with other teams to incorporate their innovations and vice versa
 Conduct design and code reviews
-Analyze and improve efficiency, scalability, and stability of languages and tools",None,None,6,0,"C++,Java,C#","Java,Python,PHP"
+Analyze and improve efficiency, scalability, and stability of languages and tools",None,None,6,0,"C++,Java,C#","Java,Python,JavaScript,PHP"
 162,"Technical Sourcer, Software Engineering","Austin, TX","3+ years sourcing experience with a search firm or in-house recruiting team
 Experience working with and building sourcing strategies with hiring managers
 Research/sourcing experience with experience dicing into search strategies
@@ -2024,7 +2024,7 @@ Create consumer products and features using internal programming language Hack
 Implement web, mobile, or VR interfaces using XHTML, CSS, and JavaScript
 Work closely with our PM and design teams to define feature specifications and build the next generation of products leveraging frameworks such as React, React Native, and React VR
 Work closely with operations and infrastructure to build and scale back-end services
-Build report interfaces and data feeds",None,None,2,0,"Java,SQL","C++,PHP"
+Build report interfaces and data feeds",None,None,2,0,"Java,JavaScript,SQL","C++,PHP"
 169,Software Engineer - Audio Specialist,"Bellevue, WA","BS/MS in Computer science or Electrical engineering.
 Experience with Audio stack like codecs, audio capture/render, jitter buffer and signal processing.
 C/C++ multi threaded programming experience.",Data analysis background.,"Identify areas of improvement for Audio quality on mobile devices.
@@ -2095,7 +2095,7 @@ Create consumer products and features using internal programming language Hack
 Implement web or mobile interfaces using XHTML, CSS, and JavaScript
 Work closely with our PM and design teams to define feature specifications and build the next generation of products leveraging frameworks such as React & React Native
 Work closely with operations and infrastructure to build and scale back-end services
-Build report interfaces and data feeds",None,None,5,0,"Java,SQL","C++,PHP"
+Build report interfaces and data feeds",None,None,5,0,"Java,JavaScript,SQL","C++,PHP"
 176,Audio Software Engineer - AR/VR,"Menlo Park, CA","4+ years experience working on systems software in a large-scale C or C++ code base.
 4+ years experience working on audio technology and systems.
 Experience with Software Development processes including: source control, bug tracking, and design documentation.
@@ -2123,7 +2123,7 @@ Implement solutions with languages such as Java, JavaScript, React, PHP, Python 
 Become an expert in our operational products
 Provide consultancy to our stakeholder, peer engineering and product teams
 Solve technical, operational and escalation issues, delivering the highest level of satisfaction
-Deliver data-driven, impactful results",Bachelor,None,3,0,"Java,Python,PHP,Ruby",None
+Deliver data-driven, impactful results",Bachelor,None,3,0,"Java,Python,JavaScript,PHP,Ruby",None
 178,"Software Engineer, Mobile, Android NDK","Seattle, WA","B.S. or M.S. Computer Science or 2+ years in software development experience
 2+ years of object-oriented software development experience
 2+ years experience building infrastructure in C++ using the Android NDK
@@ -2143,7 +2143,7 @@ BS / MS in Computer Science (In lieu of degree, relevant work experience).",,"Be
 Communicate across functions and drive engineering initiatives
 Participate in technical design
 Be a subject matter expert in a product domain
-Define and influence product strategy",BS,None,0,0,"C++,Java,Javascript,PHP",None
+Define and influence product strategy",BS,None,0,0,"C++,Java,PHP",None
 180,"Software Engineer, Mobile, Android NDK","Seattle, WA","B.S. or M.S. Computer Science or 2+ years in software development experience
 2+ years of object-oriented software development experience
 2+ years experience building infrastructure in C++ using the Android NDK
@@ -2168,7 +2168,7 @@ Exceptional coding skills in one of the following: C++, Java, Javascript, or PHP
 Demonstrated ability to manage technical teams.
 BS / MS in Computer Science (In lieu of degree, relevant work experience).",,"Be both highly technical, hands-on coder and an effective people manager
 Communicate across functions and drive engineering initiatives
-Participate in technical design",BS,None,0,0,"C++,Java,Javascript,PHP",None
+Participate in technical design",BS,None,0,0,"C++,Java,PHP",None
 183,"Manager, Software Engineering - Community Integrity","London, United Kingdom","Proven hands-on technical management.
 Exceptional coding skills in one of the following: C++, Java, Javascript, or PHP.
 Demonstrated ability to manage technical teams.
@@ -2176,7 +2176,7 @@ BS / MS in Computer Science (In lieu of degree, relevant work experience).",,"Be
 Communicate across functions and drive engineering initiatives
 Participate in technical design
 Be a subject matter expert in a product domain
-Define and influence product strategy",BS,None,0,0,"C++,Java,Javascript,PHP",None
+Define and influence product strategy",BS,None,0,0,"C++,Java,PHP",None
 184,"Software Engineer, Product (Full Stack)","Bellevue, WA","6+ years of programming experience
 6+ years of experience with relational databases and SQL
 6+ years of experience with web technologies: JavaScript, XHTML, CSS","B.S. or M.S. Computer Science or related field
@@ -2186,7 +2186,7 @@ Create consumer products and features using internal programming language Hack
 Implement web or mobile interfaces using XHTML, CSS, and JavaScript
 Work closely with our PM and design teams to define feature specifications and build the next generation of products leveraging frameworks such as React & React Native
 Work closely with operations and infrastructure to build and scale back-end services
-Build report interfaces and data feeds",None,None,6,6,"Java,SQL","C++,PHP,SQL"
+Build report interfaces and data feeds",None,None,6,6,"Java,JavaScript,SQL","C++,PHP,SQL"
 185,"Software Engineer, Companion App (Oculus)","Los Angeles, CA","3+ years of experience building infrastructure for iOS applications with coding experience in Objective C.
 2+ years experience building infrastructure and UI components in large-scale iOS applications.
 1+ years experience working with profiling the app and setting up the build infrastructure/build scripts.","B.S. in Computer Science or related technical field.
@@ -2196,7 +2196,7 @@ Experience building custom user interfaces using a combination of React Native (
 Coding experience with AR/VR products and infrastructure.","Work closely with our product, design and partner teams to build new infrastructure for the Oculus companion app using Objective C and React Native.
 Implement native modules and UI components for iOS to enable new features and use cases for supporting VR headsets in the app.
 Build infrastructure pieces and developer tooling that improve developer efficiency when working on the app.
-Analyze and optimize User Interface and Backend Application code for efficiency, performance and app reliability by creating dashboards and defining metrics to monitor app health.",None,None,3,1,Objective C,Java
+Analyze and optimize User Interface and Backend Application code for efficiency, performance and app reliability by creating dashboards and defining metrics to monitor app health.",None,None,3,1,Objective C,"Java,JavaScript"
 186,"Software Engineer, Product (Full Stack)","Menlo Park, CA","5+ years of programming experience
 5+ years of experience with relational databases and SQL
 5+ years of experience with web technologies: JavaScript, XHTML, CSS","B.S. or M.S. Computer Science or related field
@@ -2205,7 +2205,7 @@ Create consumer products and features using internal programming language Hack
 Implement web or mobile interfaces using XHTML, CSS, and JavaScript
 Work closely with our PM and design teams to define feature specifications and build the next generation of products leveraging frameworks such as React & React Native
 Work closely with operations and infrastructure to build and scale back-end services
-Build report interfaces and data feeds",None,None,5,0,"Java,SQL","C++,PHP"
+Build report interfaces and data feeds",None,None,5,0,"Java,JavaScript,SQL","C++,PHP"
 187,"Manager, Software Engineering - Core App","London, United Kingdom","Proven hands-on technical management.
 Exceptional coding skills in one of the following: C++, Java, Javascript, or PHP.
 Demonstrated ability to manage technical teams.
@@ -2213,7 +2213,7 @@ BS / MS in Computer Science (In lieu of degree, relevant work experience).",,"Be
 Communicate across functions and drive engineering initiatives
 Participate in technical design
 Be a subject matter expert in a product domain
-Define and influence product strategy",BS,None,0,0,"C++,Java,Javascript,PHP",None
+Define and influence product strategy",BS,None,0,0,"C++,Java,PHP",None
 188,"Software Engineer, Machine Perception Research","Redmond, WA","Experience with real world system building and data collection, including design, coding (C++) and evaluation (C++/Python)
 Experience in any of the following fields: Computer Vision, Sensor Modeling, Sensor Fusion, State Estimation, 3D Reconstruction, Mapping & Localization, 3D geometry, Physics based models, or a related field
 Interpersonal experience: cross-group and cross-culture collaboration","Hands-on experience with 3D computer vision algorithms including Calibration, SLAM, Reconstruction, Mapping, Localization and Image Processing
@@ -2231,7 +2231,7 @@ Problem solving and analytical skills","Deliver robust, scalable technical solut
 Investigate and implement solutions with languages such as Java, JavaScript, React, PHP, Python and SQL
 Provide data driven insights and operational reporting to cross-functional partners
 Provide consultancy into peer engineering teams and product teams
-Experiment with emerging Facebook technologies to develop future solutions",Bachelor,None,3,0,"Java,Python,PHP,Ruby",None
+Experiment with emerging Facebook technologies to develop future solutions",Bachelor,None,3,0,"Java,Python,JavaScript,PHP,Ruby",None
 190,Software Developer - Business Operations Engineering,"Dublin, Ireland","Bachelor’s degree in Computer Science or related field (or equivalent degree and experience)
 3+ years of experience in software development
 Programming experience in one or more of the following languages: Java, PHP, JavaScript, Ruby, Python","Demonstrate problem solving and analytical skills
@@ -2240,7 +2240,7 @@ Implement solutions with languages such as Java, JavaScript, React, PHP, Python 
 Become an expert in our operational products
 Provide consultancy to our stakeholder, peer engineering and product teams
 Solve technical, operational and escalation issues, delivering the highest level of satisfaction
-Deliver data-driven, impactful results",Bachelor,None,3,0,"Java,Python,PHP,Ruby",None
+Deliver data-driven, impactful results",Bachelor,None,3,0,"Java,Python,JavaScript,PHP,Ruby",None
 191,"Software Engineer, Blockchain (University Grad)","Menlo Park, CA","2+ years coding experience in C, C++, Java, C#, Perl, PHP, Hack and/or Python
 Currently has, or is in the process of obtaining a B.S. Computer Science or related technical field
 Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment","Currently has, or is in the process of obtaining a PhD in Computer Science or related technical field","Design core, backend software components
@@ -2284,7 +2284,7 @@ Create consumer products and features using internal programming language Hack
 Implement web or mobile interfaces using XHTML, CSS, and JavaScript
 Work closely with our PM and design teams to define feature specifications and build the next generation of products leveraging frameworks such as React & React Native
 Work closely with operations and infrastructure to build and scale back-end services
-Build report interfaces and data feeds",None,None,6,6,"Java,SQL","C++,PHP,SQL"
+Build report interfaces and data feeds",None,None,6,6,"Java,JavaScript,SQL","C++,PHP,SQL"
 196,"Software Engineer, Product (Full Stack)","London, United Kingdom","Excellent programming experience
 Good understanding of relational databases and SQL
 Detailed knowledge of web technologies including JavaScript, XHTML, CSS",BSc or MSc in Computer Science or related field (or equivalent industry experience),"Full stack web or mobile application development with a variety of languages including but not limited to PHP, JavaScript, HTML
@@ -2292,7 +2292,7 @@ Create consumer products and features using internal programming language Hack
 Implement web or mobile interfaces using XHTML, CSS, and JavaScript
 Work closely with our PM and design teams to define feature specifications and build the next generation of products leveraging frameworks such as React & React Native
 Work closely with operations and infrastructure to build and scale back-end services
-Build report interfaces and data feeds",None,BS,0,0,"Java,Go,SQL",None
+Build report interfaces and data feeds",None,BS,0,0,"Java,JavaScript,Go,SQL",None
 197,Software Engineering Manager - Machine Learning,"Redmond, WA","5+ years work experience as an engineer developing products similar to Conversational AI, knowledge graphs, Machine Learning Systems, Natural Language Processing systems, large scale data pipelines or infrastructure
 2+ years experience directly managing a team of engineers
 Experience shipping multiple products across various platforms
@@ -2553,7 +2553,7 @@ Participate in technical design
 Be a subject matter expert in a product domain
 Define and influence product strategy
 Maximize efficiency in a constantly evolving environment where process is fluid and creative solutions are the norm
-Contribute to the overall maturity of deployment and other processes.",BS,None,5,0,"C++,Java,Javascript,PHP,C#",None
+Contribute to the overall maturity of deployment and other processes.",BS,None,5,0,"C++,Java,PHP,C#",None
 219,"Technical Recruiter, Software Engineering (London)","London, United Kingdom","5+ years of full cycle recruiting experience
 Experience independently partnering with leadership on hiring initiatives
 Ability to effectively influence and drive toward results in a fast-paced environment
@@ -2621,7 +2621,7 @@ Participate in technical design
 Be a subject matter expert in a product domain
 Define and influence product strategy
 Maximize efficiency in a constantly evolving environment where process is fluid and creative solutions are the norm
-Contribute to the overall maturity of deployment and other processes",BS,None,5,0,"C++,Java,Javascript,PHP,C#",None
+Contribute to the overall maturity of deployment and other processes",BS,None,5,0,"C++,Java,PHP,C#",None
 225,"Software Developer - Integrity, Investigations and Intelligence","Menlo Park, CA","B.S. or M.S. in Computer Science or related field, or equivalent experience
 Knowledge of developing and debugging in object-oriented programming languages, i.e. PHP, Java, etc.
 Knowledge of scripting languages, i.e. Python, Bash, or Perl
@@ -2878,7 +2878,7 @@ Manage technical and product issues and escalations
 Scale developer support with Sales and Partnership growth
 Engage with operations and product teams to build, drive, and improve our tools and processes
 Design and build tools to improve the support experience for our developers
-Build your understanding across a variety of internal tools & software for Facebook Platform at a deep level",Bachelor,None,1,0,"Java,Python,PHP,Ruby",None
+Build your understanding across a variety of internal tools & software for Facebook Platform at a deep level",Bachelor,None,1,0,"Java,Python,JavaScript,PHP,Ruby",None
 243,AR/VR Prototyper - Facebook Reality Labs,"Redmond, WA","5+ years experience shipping innovative 3D software products
 A portfolio of prototyping work with interaction, 3D, and motion
 Experience with real-time 3D development such as Unity or UE4
@@ -2933,7 +2933,7 @@ Manage technical and product issues and escalations
 Scale developer support with Sales and Partnership growth
 Engage with operations and product teams to build, drive, and improve our tools and processes
 Design and build tools to improve the support experience for our developers
-Build your understanding across a variety of internal tools & software for Facebook Platform at a deep level",Bachelor,None,1,0,"Java,Python,PHP,Ruby",None
+Build your understanding across a variety of internal tools & software for Facebook Platform at a deep level",Bachelor,None,1,0,"Java,Python,JavaScript,PHP,Ruby",None
 246,"Director of Engineering, VR Platform","Los Angeles, CA","10+ years of relevant experience in advanced technology management as a software leader building teams and leading organizations through product delivery and commercialization on time and on budget
 Experience leading, mentoring, and inspiring a consumer technology software organization of 150+ engineers
 Technical experience and understanding of how full-stack solutions fit together
@@ -3016,7 +3016,7 @@ Manage technical and product issues and escalations
 Scale developer support with Sales and Partnership growth
 Engage with operations and product teams to build, drive, and improve our tools and processes
 Design and build tools to improve the support experience for our developers
-Build your understanding across a variety of internal tools & software for Facebook Platform at a deep level",Bachelor,None,1,0,"Java,Python,PHP,Ruby",None
+Build your understanding across a variety of internal tools & software for Facebook Platform at a deep level",Bachelor,None,1,0,"Java,Python,JavaScript,PHP,Ruby",None
 251,"Director of Engineering, VR Platform","Los Angeles, CA","10+ years of relevant experience in advanced technology management as a software leader building teams and leading organizations through product delivery and commercialization on time and on budget
 Experience leading, mentoring, and inspiring a consumer technology software organization of 150+ engineers
 Technical experience and understanding of how full-stack solutions fit together
@@ -3057,7 +3057,7 @@ Customize, maintain, and expand existing internal software solutions for a diver
 Experiment with emerging Facebook technologies to develop future solutions
 Maintain systems for receiving, triaging and responding to technically oriented requests with tight, often life-impacting, timelines
 Create and scale new data pipelines into existing frameworks to ensure that data arrives to the appropriate users reliably and quickly
-Work closely with frontline analysts to understand processing and operational needs for various teams within Legal",Master,None,2,0,"Java,Python,PHP,SQL",None
+Work closely with frontline analysts to understand processing and operational needs for various teams within Legal",Master,None,2,0,"Java,Python,JavaScript,PHP,SQL",None
 254,"Engineering Manager, Enterprise and Cloud Services","Menlo Park, CA","BS degree in computer science or related field.
 5+ years of software engineering work experience, including 3+ years of hands-on technical management experience.
 Experience in one or more of the following domains: Android Frameworks, System UI, and System Apps.",,"Be both a technical leader and people manager.
@@ -3121,7 +3121,7 @@ Manage technical and product issues and escalations
 Scale developer support with Sales and Partnership growth
 Engage with operations and product teams to build, drive, and improve our tools and processes
 Design and build tools to improve the support experience for our developers
-Build your understanding across a variety of internal tools & software for Facebook Platform at a deep level",Bachelor,None,1,0,"Java,Python,PHP,Ruby",None
+Build your understanding across a variety of internal tools & software for Facebook Platform at a deep level",Bachelor,None,1,0,"Java,Python,JavaScript,PHP,Ruby",None
 259,"Research Intern, AI System Code Design","Menlo Park, CA","Currently is in the process of obtaining PhD in Computer Science, related STEM or quantitative field, or relevant experience
 Experience in systems software or algorithms
 Experience building systems based on machine learning and/or deep learning methods
@@ -3239,7 +3239,7 @@ Customize, maintain, and expand existing internal software solutions for a diver
 Experiment with emerging Facebook technologies to develop future solutions
 Maintain systems for receiving, triaging and responding to technically oriented requests with tight, often life-impacting, timelines
 Create and scale new data pipelines into existing frameworks to ensure that data arrives to the appropriate users reliably and quickly
-Work closely with frontline analysts to understand processing and operational needs for various teams within Legal",Master,None,2,0,"Java,Python,PHP,SQL",None
+Work closely with frontline analysts to understand processing and operational needs for various teams within Legal",Master,None,2,0,"Java,Python,JavaScript,PHP,SQL",None
 267,"Engineering Manager, Enterprise and Cloud Services","Menlo Park, CA","BS degree in computer science or related field.
 5+ years of software engineering work experience, including 3+ years of hands-on technical management experience.
 Experience in one or more of the following domains: Android Frameworks, System UI, and System Apps.",,"Be both a technical leader and people manager.
@@ -3384,7 +3384,7 @@ Identify resources needed and work closely with the team leads to maintain full 
 Work with product managers, designers and other engineers to create software that optimizes for business metrics
 Produce highly reliable and performant code with appropriate monitoring and alerting
 Conduct design and code reviews to ensure scalability, performance and alignment with standards and best practices
-Follow release management policies to ensure data integrity, compliance and system stability",BS,None,2,0,"C++,Java,Javascript,PHP",None
+Follow release management policies to ensure data integrity, compliance and system stability",BS,None,2,0,"C++,Java,PHP",None
 276,Enterprise Engineer,"Austin, TX","BS in Computer Science or equivalent experience
 4+ years of experience building intuitive systems in Java, PHP, C++ or Javascript technologies such as ReactJS or AngularJS
 4+ years experience working with code bases building micro services, REST APIs, GraphQL
@@ -3393,7 +3393,7 @@ Follow release management policies to ensure data integrity, compliance and syst
 Work with product managers, designers and other engineers to create software that optimizes for business metrics
 Produce highly reliable and performant code with appropriate monitoring and alerting
 Conduct design and code reviews to ensure scalability, performance and alignment with standards and best practices
-Follow release management policies to ensure data integrity, compliance and system stability",BS,None,4,0,"C++,Java,Javascript,PHP",None
+Follow release management policies to ensure data integrity, compliance and system stability",BS,None,4,0,"C++,Java,PHP",None
 277,"Technical Program Manager, Shell","Seattle, WA","BS in Engineering field, or equivalent experience.
 5+ years experience as a Technical Program Manager managing software programs from inception to production.
 Communication experience and experience working with technical teams.
@@ -3821,7 +3821,7 @@ Experience with algorithms and optimization.","Help plan, design, build, and ope
 Develop and implement productivity software solutions based on data analytics which allow our data center pre-ops and operations teams to be more efficient in planning, designing, building and operating the data centers.
 Partner with data scientist to deploy analytical models integrate them with the IDC operations.
 Help scale and optimize our overall data center capacity by developing cutting edge tools which improve efficiency and bring automation to our data centers.
-Partner with the operational & engineering teams in order to implement, verify and iterate on the analytical solutions being developed.",BS,PhD,1,0,"C++,Java,Python,PHP,SQL",None
+Partner with the operational & engineering teams in order to implement, verify and iterate on the analytical solutions being developed.",BS,PhD,1,0,"C++,Java,Python,JavaScript,PHP,SQL",None
 307,"Solutions Engineer, London","London, United Kingdom","BA/BS in Computer Science or equivalent degree/experience
 Previous experience as a software engineer, solutions architect or partner/sales engineer
 Deep understanding of the full web technology stack and/or mobile (TCP/IP, HTTP, HTML, JavaScript, CSS, RESTful API)
@@ -3837,7 +3837,7 @@ Influence the road map and product development of Facebook Ads to meet our clien
 Coding in a variety of languages, including JavaScript (React, ReactNative), Python, C/C++ and PHP
 Deeply understand the Business ecosystem, identify problems and solutions for Businesses
 Build technical expertise in Facebook products including Ads API, Pages, Platform and provide consultative guidance to Businesses and ecosystem
-Manage relationship with product teams & decision makers at businesses Help launch products including supporting Alpha and Beta programs",BA,None,0,0,"C++,Java,Python,PHP,Ruby,C#",None
+Manage relationship with product teams & decision makers at businesses Help launch products including supporting Alpha and Beta programs",BA,None,0,0,"C++,Java,Python,JavaScript,PHP,Ruby,C#",None
 308,"Solutions Engineer, Paris","Paris, France","BA/BS in Computer Science or equivalent degree/experience
 Previous experience as a software engineer, solutions architect or partner/sales engineer
 Deep understanding of the full web technology stack and/or mobile (TCP/IP, HTTP, HTML, JavaScript, CSS, RESTful API)
@@ -3853,7 +3853,7 @@ Influence the road map and product development of Facebook Ads to meet our clien
 Coding in a variety of languages, including JavaScript (React, ReactNative), Python, C/C++ and PHP
 Deeply understand the Business ecosystem, identify problems and solutions for Businesses
 Build technical expertise in Facebook products including Ads API, Pages, Platform and provide consultative guidance to Businesses and ecosystem
-Manage relationship with product teams & decision makers at businesses Help launch products including supporting Alpha and Beta programs",BA,None,0,0,"C++,Java,Python,PHP,Ruby,C#",None
+Manage relationship with product teams & decision makers at businesses Help launch products including supporting Alpha and Beta programs",BA,None,0,0,"C++,Java,Python,JavaScript,PHP,Ruby,C#",None
 309,"Solutions Engineer, Amsterdam","Amsterdam, Netherlands","BA/BS in Computer Science or equivalent degree/experience
 Previous experience as a software engineer, solutions architect or partner/sales engineer
 Deep understanding of the full web technology stack and/or mobile (TCP/IP, HTTP, HTML, JavaScript, CSS, RESTful API)
@@ -3869,7 +3869,7 @@ Influence the road map and product development of Facebook Ads to meet our clien
 Coding in a variety of languages, including JavaScript (React, ReactNative), Python, C/C++ and PHP
 Deeply understand the Business ecosystem, identify problems and solutions for Businesses
 Build technical expertise in Facebook products including Ads API, Pages, Platform and provide consultative guidance to Businesses and ecosystem
-Manage relationship with product teams & decision makers at businesses Help launch products including supporting Alpha and Beta programs",BA,None,0,0,"C++,Java,Python,PHP,Ruby,C#",None
+Manage relationship with product teams & decision makers at businesses Help launch products including supporting Alpha and Beta programs",BA,None,0,0,"C++,Java,Python,JavaScript,PHP,Ruby,C#",None
 310,"Technical Program Manager, Network Engineering, EDGE Systems","Menlo Park, CA","B.S. in Computer Science or a related technical discipline, or equivalent experience.
 7+ years of software engineering, systems engineering or technical product/program management experience.
 Experience delivering tech programs or products from inception to delivery.
@@ -4011,7 +4011,7 @@ Influence the road map and product development of Facebook Ads to meet our clien
 Coding in a variety of languages, including JavaScript (React, ReactNative), Python, C/C++ and PHP
 Deeply understand the Business ecosystem, identify problems and solutions for Businesses
 Build technical expertise in Facebook products including Ads API, Pages, Platform and provide consultative guidance to Businesses and ecosystem
-Manage relationship with product teams & decision makers at businesses Help launch products including supporting Alpha and Beta programs",BA,None,0,0,"C++,Java,Python,PHP,Ruby,C#",None
+Manage relationship with product teams & decision makers at businesses Help launch products including supporting Alpha and Beta programs",BA,None,0,0,"C++,Java,Python,JavaScript,PHP,Ruby,C#",None
 320,Production Engineer,"Seattle, WA","Engineering degree, or a related technical discipline, or equivalent work experience
 Experience with operating systems and TCP/IP network fundamentals
 Experience coding in higher-level languages (e.g., PHP, Python, C++, or Java)
@@ -4673,7 +4673,7 @@ Influence the road map and product development of Facebook Ads to meet our clien
 Coding in a variety of languages, including JavaScript (React, ReactNative), Python, C/C++ and PHP
 Deeply understand the Business ecosystem, identify problems and solutions for Businesses
 Build technical expertise in Facebook products including Ads API, Pages, Platform and provide consultative guidance to Businesses and ecosystem
-Manage relationship with product teams & decision makers at businesses Help launch products including supporting Alpha and Beta programs",BA,None,0,0,"C++,Java,Python,PHP,Ruby,C#",None
+Manage relationship with product teams & decision makers at businesses Help launch products including supporting Alpha and Beta programs",BA,None,0,0,"C++,Java,Python,JavaScript,PHP,Ruby,C#",None
 360,"Project Engineer, Data Center Design","Fremont, CA","Minimum of four (4) years professional experience in a construction or design related industry.
 Minimum three (3) years related work experience in large scale buildings and records management.
 Experience with engineering drawings and records management practices and procedures.
@@ -6354,7 +6354,7 @@ Comply with change management policies to ensure data integrity and system stabi
 Understand performance metrics for business value
 Build interfaces for complex systems and high-quality tools
 Passionate about UI/UX and that should reflect in your work
-Technical ownership of projects and managing resources",BS,None,0,0,"Java,SQL",None
+Technical ownership of projects and managing resources",BS,None,0,0,"Java,JavaScript,SQL",None
 464,"Manager, Technical Program Management, Search Product","Menlo Park, CA","Experience building a team through continual coaching and career growth opportunities.
 B.S. in a technical discipline or equivalent experience.
 8+ years of software engineering, systems engineering, or similar tech experience including 4+ years of program/product management experience.
@@ -6613,7 +6613,7 @@ Collaborate with other researchers, engineers, and 3D artists to prototype hardw
 BS/MS in Computer Science or a related technical field","Implement the features and user interfaces of Facebook products like News Feed
 Architect efficient and reusable front-end systems that drive complex web applications
 Collaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling user-facing products
-Identify and resolve performance and scalability issues",None,BS,5,0,Java,None
+Identify and resolve performance and scalability issues",None,BS,5,0,"Java,JavaScript",None
 481,"Technical Program Manager, Ads-Targeting","Menlo Park, CA","B.S. in a Computer Sciences or 4 years or more as a Software Engineer
 At least 4 years of software engineering, systems engineering or similar experience, in addition to project/program management experience
 Communication experience working with both technical and non-technical product management teams
@@ -6903,7 +6903,7 @@ Architect efficient and reusable front-end systems that drive complex web applic
 Identify and resolve performance and scalability issues
 Manage issues, risks and schedule throughout the project, and participation in usability test activities
 Work with Designer to optimize design, improve customer experience, and develop user training documentations
-Interact with cross-functional teams to incorporate their innovations and vice versa",BS,None,2,0,"Java,SQL","C++,PHP"
+Interact with cross-functional teams to incorporate their innovations and vice versa",BS,None,2,0,"Java,JavaScript,SQL","C++,PHP"
 501,Site Development Program Manager,"Fremont, CA","Bachelor's degree in Business, Planning, Engineering, Science or Environmental management
 5+ years of project management and/or site development experience
 Experience in managing multiple projects and coordinating with internal staff and external consultants, vendors and other stakeholders
@@ -7019,7 +7019,7 @@ Comply with change management policies to ensure data integrity and system stabi
 Understand performance metrics for business value
 Build interfaces for complex systems and high-quality tools
 Passionate about UI/UX and that should reflect in your work
-Technical ownership of projects and managing resources",BS,None,0,0,"Java,SQL",None
+Technical ownership of projects and managing resources",BS,None,0,0,"Java,JavaScript,SQL",None
 508,"Manager, Technical Program Management, Search Product","Menlo Park, CA","Experience building a team through continual coaching and career growth opportunities.
 B.S. in a technical discipline or equivalent experience.
 8+ years of software engineering, systems engineering, or similar tech experience including 4+ years of program/product management experience.
@@ -7668,7 +7668,7 @@ Define and execute on a strategy to drive adoption of Facebook platform
 Work closely with our strategic partners to integrate with Facebook’s platform products
 Be a subject matter technical expert, and have strategic influence on partners and internal teams at Facebook
 Represent Facebook and its platform offerings at developer events
-Develop samples and other materials to share with the broader Facebook developer community",BA,None,3,0,"C++,Java,Python,PHP,Ruby,C#",None
+Develop samples and other materials to share with the broader Facebook developer community",BA,None,3,0,"C++,Java,Python,JavaScript,PHP,Ruby,C#",None
 548,"Research Intern, Graphics (PhD)","Redmond, WA","Currently has, or is in the process of obtaining, a PhD degree in the field of Computer Graphics, Applied Math or a related field
 3+ years of experience in C/C++, at least one of the following: CUDA, VulkanRT/DXR
 2+ years of experience with computer graphics and image synthesis, e.g., rendering, sampling, reconstruction, ray tracing, shading, level of detail
@@ -7690,7 +7690,7 @@ Experience in biosignal analysis or statistics
 Experience with hardware, e.g. DAQs, microcontrollers","Apply state-of-the-art methods for non-invasive neuroimaging signal processing and analysis
 Collect, analyze, and manage complex neuroimaging datasets
 Diagnose and identify potential improvements in neuroimaging systems",PhD,None,3,2,Python,None
-550,"Solutions Architect, Workplace,Mexico","Mexico City, Mexico",". Experience as a solutions architect, technical consultant or partner/sales/solutions engineer . Communication skills including experience speaking to technical and business audiences . Architecture experience in one or more of the following areas: Cloud, SaaS, Networking, Infrastructure, Provisioning, Security, Applications, Enterprise . Deep understanding of the web technology stack (TCP/IP, HTTP, HTML, JavaScript, RESTful APIs) . Ability to maintain and demonstrate knowledge of industry technology areas and current trends . Willingness and ability to travel approximately 10% of time",". Experience and understanding of the technical, organisational and cultural challenges deploying cloud based software-as-a-service solutions into enterprise environments . Experience with and understanding of enterprise security, including user/identity management (e.g. Active Directory), protocols (e.g. SAML), concepts (e.g. Single Sign On, Mobile Device Management) . Pre-Sales experience . Regional language skills",". Deeply understand the Workplace system and integration components . Engage with potential customers to understand their business objectives and demonstrate the value proposition of Workplace . Deliver customised pre-sales technical and product demonstrations to customers . Assist in RFP responses and drive to close new opportunities . Support our Delivery Partners as they engage with customers . Identify key system architecture components, propose and help clients build solutions that unblock deployments . Troubleshoot customer technical issues in real time . Act as a conduit between product engineering and customers, influencing the product roadmap by identifying and informing on regional insights, challenges and strategic opportunities . Assist in the development of best practices to help customers get the most out of using Workplace",None,None,0,0,Java,None
+550,"Solutions Architect, Workplace,Mexico","Mexico City, Mexico",". Experience as a solutions architect, technical consultant or partner/sales/solutions engineer . Communication skills including experience speaking to technical and business audiences . Architecture experience in one or more of the following areas: Cloud, SaaS, Networking, Infrastructure, Provisioning, Security, Applications, Enterprise . Deep understanding of the web technology stack (TCP/IP, HTTP, HTML, JavaScript, RESTful APIs) . Ability to maintain and demonstrate knowledge of industry technology areas and current trends . Willingness and ability to travel approximately 10% of time",". Experience and understanding of the technical, organisational and cultural challenges deploying cloud based software-as-a-service solutions into enterprise environments . Experience with and understanding of enterprise security, including user/identity management (e.g. Active Directory), protocols (e.g. SAML), concepts (e.g. Single Sign On, Mobile Device Management) . Pre-Sales experience . Regional language skills",". Deeply understand the Workplace system and integration components . Engage with potential customers to understand their business objectives and demonstrate the value proposition of Workplace . Deliver customised pre-sales technical and product demonstrations to customers . Assist in RFP responses and drive to close new opportunities . Support our Delivery Partners as they engage with customers . Identify key system architecture components, propose and help clients build solutions that unblock deployments . Troubleshoot customer technical issues in real time . Act as a conduit between product engineering and customers, influencing the product roadmap by identifying and informing on regional insights, challenges and strategic opportunities . Assist in the development of best practices to help customers get the most out of using Workplace",None,None,0,0,"Java,JavaScript",None
 551,"Program Manager, Infrastructure Data Centers","Fremont, CA","5 or more years of experience with program management.
 Communication experience across technical and non-technical stakeholders.
 Demonstrated track record of delivering business value using technology solutions in high-tech operations space.
@@ -7754,7 +7754,7 @@ Understanding of monitoring, systems provisioning, networking all a bonus
 A burning desire to ""Move Fast and Be Bold""","Define and implement software that Facebook uses to build and manage its infrastructure and datacentres
 Architect efficient and reusable back-end as well as front-end systems depending on the problem you are solving for
 Stay hands-on and keep your thirst for writing code quenched every day
-You are a builder and you keep software running, share on-call rotation with your team and respond to service incidents",None,None,3,0,"Java,SQL","C++,PHP"
+You are a builder and you keep software running, share on-call rotation with your team and respond to service incidents",None,None,3,0,"Java,JavaScript,SQL","C++,PHP"
 556,"Manufacturing Engineer Intern, Network Hardware","Menlo Park, CA","Currently has, or is in the process of obtaining Bachelors or Masters degree in Industrial, Electrical, or Mechanical Engineering or related technical fields
 Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment","Intent to return to degree-program after the completion of the internship/co-op
 Familiar with Network, server and storage hardware design
@@ -8042,14 +8042,14 @@ Provide customer service expertise that is an example to the rest of your team i
 BS/MS in Computer Science or a related technical field","Implement the features and user interfaces of Facebook products like News Feed
 Architect efficient and reusable front-end systems that drive complex web applications
 Collaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling user-facing products
-Identify and resolve performance and scalability issues",None,BS,3,0,Java,None
+Identify and resolve performance and scalability issues",None,BS,3,0,"Java,JavaScript",None
 577,Front End Engineer,"Menlo Park, CA","5+ years of JavaScript experience, including concepts like asynchronous programming, closures, types, and ES6
 5+ years of HTML/CSS experience, including concepts like layout, specificity, cross browser compatibility, and accessibility
 5+ years experience with browser APIs and optimizing front end performance","Experience with React
 BS/MS in Computer Science or a related technical field","Implement the features and user interfaces of Facebook products like News Feed
 Architect efficient and reusable front-end systems that drive complex web applications
 Collaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling user-facing products
-Identify and resolve performance and scalability issues",None,BS,5,0,Java,None
+Identify and resolve performance and scalability issues",None,BS,5,0,"Java,JavaScript",None
 578,"Research Scientist, Virtual Humans (PhD)","Sausalito, CA","Currently has or is in the process of obtaining a PhD degree or completing a postdoctoral assignment in the field of Computer Vision or related field
 2+ years' experience in machine learning applied to computer vision problems
 2+ years' experience in deep learning applied to human detection, pose estimation, tracking, segmentation, classification
@@ -9033,7 +9033,7 @@ As part of the Commercial team, you work hand-in-glove with our Sales and Accoun
 You will have a strong technical aptitude with the ability to rapidly learn new technologies and take advantage of new concepts.
 You demonstrate a consultative and analytical approach with a focus on building partnerships internally and externally.
 You collaborate effectively with product teams to launch products including supporting Alpha and Beta programs.
-You are great at multitasking and you prioritize effectively in a fast-paced environment.",None,BA,0,0,"Java,SQL",None
+You are great at multitasking and you prioritize effectively in a fast-paced environment.",None,BA,0,0,"Java,JavaScript,SQL",None
 640,"Creative Lead, Art","New York, NY","5+ years of experience as a creative director
 Bachelor's degree
 Experience with design and art direction software
@@ -9371,7 +9371,7 @@ Develop a deep understanding of the media product offerings, how they can be com
 Collaborate with the Strategic Partner Manager teams to deliver customized technical presentations and product demonstrations to partners
 Identify key product architecture components, propose and help partners build solutions that unblock integrations
 Act as a conduit between product engineering and partners, influencing the product roadmap by identifying and informing on regional insights, challenges and strategic opportunities and helping Facebook to think local while building a global product
-Willingness and ability to travel approximately 25% of time",None,None,0,0,Java,None
+Willingness and ability to travel approximately 25% of time",None,None,0,0,"Java,JavaScript",None
 660,Product Designer (Oculus),"Menlo Park, CA","Experience designing and experience managing and leading in cross-functional environments
 5+ years of experience in shipping software products
 Knowledge of qualitative and quantitative methods for user research, including A/B testing frameworks
@@ -9579,7 +9579,7 @@ Experience communicating technical concepts to non-technical audiences.",,"Desig
 Build software in the Facebook stack using primarily Hack, Javascript (+React) and Python.
 Use engineering skill sets in a business organization to drive meaningful business impact by looking at problems through an operational lens.
 Partner with cross-functional product and analytics teams to lead or contribute to large scale strategic projects as well as solve ongoing operational problems at scale.
-Self-identify gaps, problems, needs, and come up with robust solutions with relative independence.",None,None,2,0,"C++,Java,Python,Javascript,PHP",None
+Self-identify gaps, problems, needs, and come up with robust solutions with relative independence.",None,None,2,0,"C++,Java,Python,PHP",None
 672,Production Engineer,"Dublin, Ireland","Engineering degree, or a related technical discipline, or equivalent work experience
 Experience with operating systems and TCP/IP network fundamentals
 Experience coding in higher-level languages (e.g., PHP, Python, C++, or Java)
@@ -10125,7 +10125,7 @@ Identify and break down complex business problems into solvable pieces that can 
 Provide hands-on program management during analysis, design, development, testing, implementation, and post implementation phases.
 Manage cross-functional product development programs in a matrix organization covering a range of teams, products and tools.
 Communicate project status to stakeholders and various key teams around the organization.
-Drive internal process improvements across multiple teams and functions.",None,None,7,0,None,"Java,PHP,SQL"
+Drive internal process improvements across multiple teams and functions.",None,None,7,0,None,"Java,JavaScript,PHP,SQL"
 705,"Data Engineering Manager, Analytics (Product Growth Platform)","Menlo Park, CA","6+ years of experience in BI and Data Warehousing.
 Experience scaling and managing 5+ person teams.
 Communication and leadership experience, with experience initiating and driving projects.
@@ -11009,7 +11009,7 @@ Write and ship reliable, scalable, and efficient code
 Develop tools and documentation to help scale Facebook’s platform products
 Influence the road map and product development of Facebook products to meet your industry's business challenges
 Represent Facebook and our products, APIs and tools in partner meetings and industry events including F8
-Travel ~10% of the time",None,None,3,0,"C++,Java,Python,PHP,Ruby,Swift,Kotlin,C#",None
+Travel ~10% of the time",None,None,3,0,"C++,Java,Python,JavaScript,PHP,Ruby,Swift,Kotlin,C#",None
 752,"Security Engineering Manager, Threat Detection and Incident Response","London, United Kingdom","Experience in at least one of PHP, Python, C, C++, or Java.
 Experience in threat detection, forensics, incident response or a related field. This may include software development, threat intelligence, or other related endeavors.
 Experience recruiting and leading technical teams, including performance management.
@@ -11500,7 +11500,7 @@ Guide our strategic partners to integrate existing and pre-release features with
 Manage key internal relationships with Facebook's leadership in engineering, product management and partnerships
 Build and manage processes to drive partner bugs, requirements and feature requests with Facebook's product and engineering teams
 Oversee key relationships with partner’s technical team and business teams in the region
-Mentor an existing, distributed team while hiring and growing people who will represent Facebook’s future leaders",None,BA,12,0,"C++,Java,Python,PHP,Ruby,C#",None
+Mentor an existing, distributed team while hiring and growing people who will represent Facebook’s future leaders",None,BA,12,0,"C++,Java,Python,JavaScript,PHP,Ruby,C#",None
 780,"Product Manager, Recruiting Products (Growth)","New York, NY","5+ experience in building software products as a product manager or product owner
 Experience as a product manager working with different sets of clients
 Experience using data to solve business problems
@@ -11829,7 +11829,7 @@ Comply with change management policies to ensure data integrity and system stabi
 Understand performance metrics for business value
 Build interfaces for complex systems and high-quality tools
 Passionate about UI/UX and that should reflect in your work
-Technical ownership of projects and managing resources",BS,None,1,0,"Java,SQL",None
+Technical ownership of projects and managing resources",BS,None,1,0,"Java,JavaScript,SQL",None
 801,Enterprise Engineer,"London, United Kingdom","BS in Computer Science or equivalent experience
 Experience building and supporting production quality software
 Experience owning projects from end-to-end
@@ -11847,7 +11847,7 @@ Comply with change management policies to ensure data integrity and system stabi
 Understand performance metrics for business value
 Build interfaces for complex systems and high-quality tools
 Passionate about UI/UX and that should reflect in your work
-Technical ownership of projects and managing resources",BS,None,1,0,"Java,SQL",None
+Technical ownership of projects and managing resources",BS,None,1,0,"Java,JavaScript,SQL",None
 802,"Associate General Counsel, Facebook Reality Labs","Redmond, WA","J.D. degree (or foreign equivalent) with membership in at least one U.S. state bar
 8+ years legal experience with law firms and/or in-house experience with technology companies
 Experience supporting hardware development and engineering teams
@@ -12291,7 +12291,7 @@ Experience with PHP, HACK, HHVM, and WWW backend","Help review and design system
 Help review and design systems related to abuse detection and integrity
 Collaboratively drive security incident response and vulnerability management
 Contribute to security engineering planning and execution
-Verify and validate application software security via manual and automated testing, fuzzing, and static code analysis",None,Master,2,5,"C++,Java","C++,Java,Python,PHP"
+Verify and validate application software security via manual and automated testing, fuzzing, and static code analysis",None,Master,2,5,"C++,Java,JavaScript","C++,Java,Python,JavaScript,PHP"
 829,Product Design Prototyper - AR/VR,"London, United Kingdom","5+ years of experience in shipping software products
 Experience with real-time 3D development such as Unity/C# or Unreal
 Proven problem solving experience and experience overcoming challenges
@@ -12986,7 +12986,7 @@ Assist in the development of RFP responses and drive to close new opportunities
 Identify key system architecture components, propose and help clients build solutions that unblock deployments
 Willingness and ability to travel approximately 20% of time
 Troubleshoot customer technical issues in real time
-Create documentation and develop best practices to help customers get the most out of using the system",None,None,5,0,Java,None
+Create documentation and develop best practices to help customers get the most out of using the system",None,None,5,0,"Java,JavaScript",None
 872,"Framework Architecture Engineer, Spark AR","Menlo Park, CA","10+ years of software engineering experience.
 5+ years experience with C++.
 Experience with performance optimization in a stack used in applications.
@@ -13838,7 +13838,7 @@ You will have a strong technical aptitude with the ability to rapidly learn new 
 With a view towards scale solutions, you will produce documentation, build solutions and provide guidance to address common challenges faced across the Publisher base. You will proactively evangelise your solutions and educate with best-practice examples
 You are great at multi-tasking and you prioritize effectively in a fast-paced environment
 you demonstrate a consultative and analytical approach with focus on building partnerships internally and externally.
-Travel and market visits may be required up to 20% of the time.",BA,None,4,0,Java,None
+Travel and market visits may be required up to 20% of the time.",BA,None,4,0,"Java,JavaScript",None
 925,"Technical Program Manager, Network Engineering, Dark Fiber Networks","Denver, CO","B.S. in Computer Science or a related technical discipline, or equivalent experience.
 7+ years of software engineering, systems engineering or technical product/program management experience.
 Experience delivering tech programs or products from inception to delivery.
