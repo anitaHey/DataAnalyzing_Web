@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="../tool/fontawesome-free-5.6.3-web/css/all.css">
     <link href="https://fonts.googleapis.com/css?family=Kanit&display=swap" rel="stylesheet">
     <title>Hello, world!</title>
+    
 </head>
 
 <body>
@@ -39,26 +40,35 @@
             <div class="other_introduction content_word">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque ab eos consequatur hic cupiditate alias. Aliquam velit, adipisci voluptatem enim nulla delectus quam sed dolore veritatis doloremque ipsam laudantium, repudiandae accusamus quibusdam, minus ipsum dolor maxime error libero reiciendis autem ullam facilis pariatur repellendus. Molestias rerum, velit porro, eos voluptas nam iste dolores totam culpa, vero ipsum earum, odit distinctio ad consequatur cum officia dolorum tempore laborum explicabo eveniet nemo ipsam consequuntur! Maiores ducimus, quibusdam tempore tempora, pariatur laborum maxime saepe neque fuga sint doloremque explicabo. Possimus ad obcaecati, reiciendis nesciunt veniam itaque natus aliquam perspiciatis fuga, est quae ipsum!
                 <div class="bookmark">
                     <i class="fas fa-bookmark fa-lg color_green"></i>
-                    <button id="btn_google" class="btn btn-link word_green ml-5 content_word">Google</button>
-                    <button id="btn_apple" class="btn btn-link word_green ml-5 content_word">Apple</button>
-                    <button id="btn_facebook" class="btn btn-link word_green ml-5 content_word">Facebook</button>
+                    <button id="btn_google" class="btn btn-link word_green ml-4 content_word">Google</button>
+                    <button id="btn_apple" class="btn btn-link word_green ml-4 content_word">Apple</button>
+                    <button id="btn_facebook" class="btn btn-link word_green ml-4 content_word">Facebook</button>
+                            <div class="search_result radio-group ml-5" style="display:inline;">
+                            <input type="radio" id="option-one" name="selector" class="content_word" checked value="min"><label for="option-one">Min Degree</label>
+                            <input type="radio" id="option-two" name="selector" class="content_word" value="pre"><label for="option-two">Prefer Degree</label>
+            </div>
                 </div>
             </div>
             <hr class="line" />
             <div class="other_bolck">
                 <div id="google" class="company_word">Google</div>
+                <div id="google_degree" style="width:900px;height:600px;"></div>
             </div>
             <hr class="line" />
             <div class="other_bolck">
                 <div id="apple" class="company_word">Apple</div>
+                <div id="apple_degree" style="width:900px;height:600px;"></div>
             </div>
             <hr class="line" />
             <div class="other_bolck">
                 <div id="facebook" class="company_word">Facebook</div>
+                <div id="facebook_degree" style="width:900px;height:600px;"></div>
             </div>
         </div>
     </div>
     <script src="../tool/jquery-3.3.1.min.js"></script>
+    <script src="../tool/jquery.csv.min.js"></script>
+    <script src="../tool/plotly-latest.min.js"></script>
     <script src="../tool/bootstrap-4.0.0/dist/js/bootstrap.min.js"></script>
     <script src="../tool/particles.min.js"></script>
     <script src="../tool/stats.min.js"></script>
@@ -66,6 +76,8 @@
     <script src="../tool/greensock-js/src/minified/plugins/ScrollToPlugin.min.js"></script>
     <script src="../tool/SplitText.min.js"></script>
     <script src="../js/other.js"></script>
+    <script src="../js/degree_plot.js"></script>
+
 </body>
 
 </html>
