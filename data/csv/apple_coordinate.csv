@@ -1,0 +1,98 @@
+,City,Number_of_jobs,longitude,latitude
+0,"Santa Clara Valley , California, United States",1526,-121.9551744,37.3541132
+1,"Austin, Texas, United States",120,-97.7436995,30.2711286
+2,"Hyderabad, Telangana, India",43,78.4610647345315,17.38878595
+3,"Culver City, California, United States",13,-118.3964665,34.0211224
+4,"Shanghai, Shanghai, China",46,121.4890497,31.2252985
+5,"Herzliya, Israel",63,34.8309983825015,32.1720339
+6,"Seattle, Washington, United States",56,-122.3300624,47.6038321
+7,"Tokyo, Tokyo-to, Japan",14,139.7671861,35.6810912
+8,"San Diego, California, United States",29,-117.1627714,32.7174209
+9,"Haifa, Israel",27,34.9983856,32.8191218
+10,"Cork, County Cork, Ireland",22,-8.4705806,51.8979282
+11,"Beijing, Beijing, China",32,116.3912757,39.906217
+12,"Ottawa, Ontario, Canada",2,-75.690308,45.421106
+13,"Orlando, Florida, United States",2,-81.3790388,28.5421097
+14,"San Francisco, California, United States",7,-122.4192363,37.7792808
+15,"Prague, Bohemia, Czechia",3,14.24993546147,50.0374702
+16,"Singapore, Singapore, Singapore",45,103.830391822121,1.340863
+17,"Cambridge, Massachusetts, United States",3,-71.1056157,42.3750997
+18,"Portland, Oregon, United States",13,-122.6741949,45.5202471
+19,"Boulder, Colorado, United States",4,-105.2705456,40.0149856
+20,"London, Greater London, United Kingdom",31,-0.1276474,51.5073219
+21,"Saint Albans, Hertfordshire, United Kingdom",7,-0.3422526,51.7492956
+22,"Pittsburgh, Pennsylvania, United States",14,-79.9900861,40.4416941
+23,"Vancouver, British Columbia, Canada",8,-123.1139529,49.2608724
+24,"Cambridgeshire, United Kingdom",7,0.083333,52.333333
+25,"Munich, Bavaria-Bayern, Germany",20,11.5753822,48.1371079
+26,"New York City, New York, United States",7,-74.0060152,40.7127281
+27,"Los Angeles, California, United States",1,-118.2427666,34.0536909
+28,"Stockholm, Stockholm, Sweden",1,18.0710935,59.3251172
+29,"Denver, Colorado, United States",1,-104.9848623,39.7392364
+30,"Cambridge, Cambridgeshire, United Kingdom",2,0.1235817,52.2034823
+31,"Bengaluru, Karnataka, India",1,77.5912997,12.9791198
+32,"Madrid, Madrid, Spain",1,-3.7035825,40.4167047
+33,"Uxbridge, Greater London, United Kingdom",4,-0.4816672,51.5449509
+34,"Copenhagen, Copenhagen, Denmark",1,12.5700724,55.6867243
+35,"Berlin, Berlin, Germany",2,13.3888599,52.5170365
+36,"Shenzhen, Guangdong, China",13,114.0545346,22.5445697
+37,"Barcelona, Barcelona, Spain",1,2.1774322,41.3828939
+38,"Nanshan, Guangdong, China",1,113.9256222,22.5360142
+39,"Sacramento, California, United States",5,-121.4943996,38.5815719
+40,"Hong Kong, Hong Kong Region, Hong Kong",6,114.189496,22.2605004
+41,"Heidelberg, Baden-Wurttemberg, Germany",3,8.694724,49.4093582
+42,"Paris, Paris Region, France",7,55.4497204,-20.8817123
+43,Netherlands,4,5.7480821,52.5001698
+44,Belgium,4,4.6667145,50.6402809
+45,Croatia,2,17.0118954,45.5643442
+46,Bulgaria,2,25.4856617,42.6073975
+47,Switzerland,4,8.2319736,46.7985624
+48,Hungary,2,19.5060937,47.1817585
+49,"Sydney, New South Wales, Australia",4,151.2164539,-33.8548157
+50,Slovenia,2,14.4808369,45.8133113
+51,Poland,2,19.134422,52.215933
+52,Portugal,2,-7.8896263,40.033265
+53,Germany,2,10.4234469,51.0834196
+54,Spain,2,-4.8380649,39.3262345
+55,France,2,1.8883335,46.603354
+56,Ireland,1,-7.9794599,52.865196
+57,"Zurich, Zurich, Switzerland",4,8.5423328,47.3723941
+58,"Kanagawa, Kanagawa-ken, Japan",1,139.6271352,35.4710257
+59,"Toronto, Ontario, Canada",3,-79.387207,43.653963
+60,"Greater London, United Kingdom",1,-0.144055084527687,51.4893335
+61,"Sao Paulo, Sao Paulo, Brazil",1,-46.6333824,-23.5506507
+62,Austria,2,13.199959,47.2000338
+63,Czechia,2,15.4749544,49.8167003
+64,Slovakia,2,19.4528646,48.7411522
+65,Italy,2,12.674297,42.6384261
+66,Denmark,1,10.3333283,55.670249
+67,Romania,2,24.6859225,45.9852129
+68,United Kingdom,2,-3.2765753,54.7023545
+69,"Maiden, North Carolina, United States",1,-81.2139216,35.5766048
+70,"Beijing, China",1,116.3912757,39.906217
+71,"Taipei, Taiwan, Taiwan",2,121.4656619,25.011997
+72,"Seoul, Seoul-si, Korea ",3,126.9726473,37.5551121
+73,"Mesa, Arizona, United States",2,-111.8314773,33.4151117
+74,India,1,78.6677428,22.3511148
+75,"Cupertino, California, United States",1,-122.0322895,37.3228934
+76,"Beaverton, Oregon, United States",1,-122.8037804,45.4871723
+77,"Santa Clara, California, United States",1,-121.9551744,37.3541132
+78,"Hanoi, Hanoi, Vietnam",1,105.783948592802,21.01758025
+79,"Suzhou, Jiangsu, China",2,120.5810725,31.3016935
+80,"Yokohama, Japan",1,139.636768,35.444991
+81,"Miami, Florida, United States",1,-80.1936589,25.7742658
+82,"Dallas, Texas, United States",1,-96.7968559,32.7762719
+83,"Atlanta, Georgia, United States",1,-84.3901849,33.7490987
+84,"Brisbane, Queensland, Australia",1,153.0234991,-27.4689682
+85,"New York, United States",1,-74.0060152,40.7127281
+86,"Amsterdam, Holland, Netherlands",1,4.89797550561798,52.3745403
+87,"Phoenix, Arizona, United States",1,-112.0773456,33.4485866
+88,"Philadelphia, Pennsylvania, United States",1,-75.1635262,39.9527237
+89,"Boston, Massachusetts, United States",1,-71.0582912,42.3602534
+90,"Chicago, Illinois, United States",1,-87.6244212,41.8755616
+91,"Sioux Falls, South Dakota, United States",1,-96.700327,43.5499749
+92,"Moscow, Russia",1,37.6174943,55.7504461
+93,"Mexico City, Mexico",2,-99.1333416,19.4326009
+94,Ireland,1,-7.9794599,52.865196
+95,"Linz, Upper Austria, Austria",1,14.286198,48.3059078
+96,"Montreal, Quebec, Canada",1,-73.6103642,45.4972159
