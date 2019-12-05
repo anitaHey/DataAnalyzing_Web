@@ -31,9 +31,12 @@ function count_keywords_freq(df,col_name,keywords){
         freq[keywords[index]] = 0;
     }
     for(var data in df){
-        freq[df[data][col_name]]++;
+        strs = df[data][col_name].split(',');
+        for(var str in strs){
+          freq[strs[str]]++;
+        }
     }
-    return freq
+    return freq;
 }
 
 function get_y_chart(df,keywords,prog){

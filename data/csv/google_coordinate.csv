@@ -1,0 +1,105 @@
+,City,Number_of_jobs,longitude,latitude
+0,"Xindian District, New Taipei City, Taiwan",29,121.539007101977,24.92840805
+1,"Sunnyvale, CA, USA",179,-122.0363496,37.3688301
+2,"Paris, France",23,2.3514992,48.8566101
+3,"Mountain View, CA, USA",219,-122.0832101,37.3893889
+4,"London, UK",44,-0.1276474,51.5073219
+5,"Budapest, Hungary",2,19.0404707,47.4983815
+6,"Sydney NSW, Australia",28,151.2164539,-33.8548157
+7,"Stockholm, Sweden",13,18.0710935,59.3251172
+8,"Waterloo, ON, Canada",16,-80.524635,43.466874
+9,"Cambridge, MA, USA",9,-71.1056157,42.3750997
+10,"San Bruno, CA, USA",13,-122.4110835,37.6304904
+11,"Zürich, Switzerland",18,8.656394,47.4133024
+12,"Warsaw, Poland",23,21.0714111288323,52.2337172
+13,"New York, NY, USA",36,-74.0060152,40.7127281
+14,"San Francisco, CA, USA",19,-122.4192363,37.7792808
+15,"Kirkland, WA, USA",15,-122.1920249,47.6859573
+16,"Tokyo, Japan",47,139.7594549,35.6828387
+17,"Tel Aviv-Yafo, Israel",25,34.7805274,32.0804808
+18,"Irvine, CA, USA",4,-117.8259819,33.6856969
+19,"Pittsburgh, PA, USA",10,-79.9900861,40.4416941
+20,"Bengaluru, Karnataka, India",42,77.5912997,12.9791198
+21,"Montreal, QC, Canada",15,-73.6103642,45.4972159
+22,"Los Angeles, CA, USA",9,-118.2427666,34.0536909
+23,"Washington, DC, USA",3,-77.0365529,38.8948932
+24,"Boulder, CO, USA",3,-105.2705456,40.0149856
+25,"Seattle, WA, USA",18,-122.3300624,47.6038321
+26,"Taipei, Taiwan",33,121.5636796,25.0375198
+27,"Munich, Germany",30,11.5753822,48.1371079
+28,"Austin, TX, USA",19,-97.7436995,30.2711286
+29,Singapore,24,103.830391822121,1.340863
+30,"Beijing, China",9,116.3912757,39.906217
+31,"Shanghai, China",6,121.4691749,31.2322735
+32,"Belo Horizonte, State of Minas Gerais, Brazil",2,-43.9450948,-19.9227318
+33,"Chapel Hill, NC, USA",1,-79.05578,35.9131542
+34,"Aarhus, Denmark",2,10.2134046,56.1496278
+35,"Haifa, Israel",3,34.9983856,32.8191218
+36,"Bangalore, Karnataka, India",2,77.5912997,12.9791198
+37,"San Diego, CA, USA",3,-117.1627714,32.7174209
+38,"Seoul, South Korea",11,126.9782914,37.5666791
+39,"Portland, OR, USA",1,-122.6741949,45.5202471
+40,"Hyderabad, Telangana, India",24,78.4610647345315,17.38878595
+41,"Palo Alto, CA, USA",3,-122.1598465,37.4443293
+42,"Dublin, Ireland",25,-6.2602732,53.3497645
+43,"New Taipei, Banqiao District, New Taipei City, Taiwan",6,121.4656619,25.011997
+44,"Shenzhen, Guangdong, China",3,114.0545346,22.5445697
+45,Hong Kong,8,114.185797810004,22.34921555
+46,"Lithia Springs, GA, USA",1,-84.6604899,33.7939953
+47,"Thornton, CO, USA",1,-104.9851819,39.8695516
+48,"Chicago, IL, USA",14,-87.6244212,41.8755616
+49,"Berlin, Germany",8,13.3888599,52.5170365
+50,"Redwood City, CA, USA",7,-122.2325233,37.4863239
+51,"Jakarta, Indonesia",2,106.827183,-6.1753942
+52,"Buenos Aires, Argentina",2,-58.437076,-34.6075616
+53,"Mexico City, CDMX, Mexico",9,-99.1333416,19.4326009
+54,"Council Bluffs, IA, USA",2,-95.8613912,41.2621283
+55,"Bogota, Colombia",1,-74.0760439,4.59808
+56,"Santiago, Santiago Metropolitan Region, Chile",3,-70.6504451,-33.4377968
+57,"São Paulo, State of São Paulo, Brazil",7,-46.6333824,-23.5506507
+58,"Atlanta, GA, USA",5,-84.3901849,33.7490987
+59,"Taoyuan, Taoyuan District, Taoyuan City, Taiwan",2,121.3010003,24.9929995
+60,"Johannesburg, South Africa",1,28.049722,-26.205
+61,"Lenoir, NC, USA",1,-81.5389849,35.9140196
+62,"Madison, WI, USA",1,-89.3837613,43.074761
+63,"Cincinnati, OH, USA",1,-84.5124602,39.1014537
+64,"Santa Barbara, CA, USA",4,-119.7026673,34.4221319
+65,"Pryor, OK 74361, USA",1,-95.3169136,36.3084275
+66,"Saint-Ghislain, Belgium",2,3.8195241,50.4477484
+67,"Santiago, Chile",1,-70.6504451,-33.4377968
+68,"Middenmeer, Netherlands",1,4.98552686114266,52.79409565
+69,"Frankfurt, Germany",9,8.6820917,50.1106444
+70,"Redmond, WA, USA",1,-122.1238767,47.6694141
+71,"Changhua County, Taiwan",6,120.5444667,24.0755667
+72,"Amsterdam, Netherlands",5,4.89797550561798,52.3745403
+73,"Toronto, ON, Canada",12,-79.387207,43.653963
+74,"St Louis Park, MN, USA",1,-93.3569023,44.9475726
+75,"Bucharest, Romania",1,26.1027202,44.4361414
+76,"Melbourne VIC, Australia",2,144.9631608,-37.8142176
+77,"Henderson, NV, USA",1,-114.9819235,36.0391456
+78,"Ashburn, VA, USA",1,-77.4874899,39.0437192
+79,"The Dalles, OR 97058, USA",1,-121.1841587,45.6015056
+80,"Leesburg, VA, USA",1,-77.5645446,39.1154496
+81,"New Albany, OH, USA",1,-82.8087864,40.0811745
+82,"Las Vegas, NV, USA",1,-115.149225,36.1662859
+83,"Reston, VA, USA",5,-77.3579743,38.9584018
+84,"Salt Lake City, UT, USA",1,-111.8904308,40.7670126
+85,"Austell, GA, USA",1,-84.6343783,33.8126059
+86,"Moscow, Russia",1,37.6174943,55.7504461
+87,"Copenhagen, Denmark",2,12.5700724,55.6867243
+88,"Brussels, Belgium",1,4.36743669338796,50.8436709
+89,"Madrid, Spain",3,-3.7035825,40.4167047
+90,"Gurugram, Haryana, India",4,77.0299194,28.4646148
+91,"Hamburg, Germany",2,10.000654,53.550341
+92,"Mumbai, Maharashtra, India",2,72.8353355,18.9387711
+93,"Helsinki, Finland",1,24.9425683,60.1674086
+94,"Oslo, Norway",1,10.7389701,59.9133301
+95,"Osaka, Osaka Prefecture, Japan",3,135.4955866,34.7021912
+96,"Osaka, Japan",1,135.490357,34.6198813
+97,"Accra, Ghana",1,-0.2057437,5.5600141
+98,"7000 Fredericia, Denmark",1,9.7562169,55.565268
+99,"Miami, FL, USA",2,-80.1936589,25.7742658
+100,"San Francisco, USA",1,-122.4192363,37.7792808
+101,"Milan, Italy",7,9.1905,45.4668
+102,"Rome, Italy",1,12.4853384,41.894802
+103,"Santa Barbara, USA",1,-119.7026673,34.4221319
