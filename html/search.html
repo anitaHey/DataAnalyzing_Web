@@ -1,51 +1,78 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html>
 
 <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="../tool/bootstrap-4.0.0/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../css/reset.css">
-    <link rel="stylesheet" href="../css/style.css">
-    <link rel="stylesheet" href="../tool/fontawesome-free-5.6.3-web/css/all.css">
-    <link href="https://fonts.googleapis.com/css?family=Kanit&display=swap" rel="stylesheet">
-    <title>Hello, world!</title>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="../tool/bootstrap-4.0.0/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../tool/fontawesome-free-5.6.3-web/css/all.css">
+  <link href="https://fonts.googleapis.com/css?family=Kanit&amp;display=swap" rel="stylesheet">
+  <title>Conditional Search :: Get a Software Engineering Job at Big Tech Companies</title>
+  <meta name="description" content="Conditional Search :: Get a Software Engineering Job at Big Tech Companies">
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg justify-content-around nav_sm_word">
-        <a class="navbar-brand nav_word font-weight-bold nav_other_color" href="../index.html">Index</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
+  <br><br><br><br>
+  <div class="min_whole_page">
+    <div class="other_place"></div>
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+      <div class="container"> <a class="navbar-brand" href="#">
+          <i class="fa d-inline fa-lg fa-search"></i>
+          <b contenteditable="true"><span style="font-weight: normal;">&nbsp;Conditional Search</span></b>
+        </a> <button class="navbar-toggler navbar-toggler-right border-0" type="button" data-toggle="collapse" data-target="#navbar10">
+          <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="text-inline">
-            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                <div class="navbar-nav text-center">
-                    <a class="nav-item nav_other_color ml-5" href="degree.html">Degree<br>Requirement</a>
-                    <a class="nav-item nav_other_color ml-5" href="work.html">Work<br>Experience</a>
-                    <a class="nav-item nav_other_color ml-5" href="prog.html">Programming<br>Languages</a>
-                    <a class="nav-item nav_other_color ml-5" href="keyword.html">Keyword<br>Extraction</a>
-                    <a class="nav-item nav_other_color ml-5" href="map.html">Map<br>Search</a>
-                    <a class="nav-item nav_other_color ml-5" href="search.html">Conditional<br>Search</a>
-                </div>
-            </div>
+        <div class="collapse navbar-collapse" id="navbar10">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item text-center"> <a class="nav-link" href="degree.html">Degree<br>Requirements</a> </li>
+            <li class="nav-item text-center"> <a class="nav-link" href="work.html">Work<br>Experience</a> </li>
+            <li class="nav-item text-center"> <a class="nav-link" href="skill.html">Skill<br>Requirements<br></a> </li>
+            <li class="nav-item text-center"> <a class="nav-link" href="keyword.html">Keyword<br>Extraction</a> </li>
+            <li class="nav-item text-center"> <a class="nav-link" href="map.html">Job<br>Locations</a> </li>
+            <li class="nav-item text-center pr-3"> <a class="nav-link" href="about.html">About<br>Us</a> </li>
+          </ul> <a class="btn navbar-btn ml-md-2 btn-light text-dark" href="search.html">Search Jobs</a>
         </div>
+      </div>
     </nav>
-    <button class="btn color_green button_up"><i class="fas fa-arrow-circle-up fa-4x"></i></button>
-    <div class="min_whole_page">
-        <div class="other_place">
-            <div class="big_word other_word border_left color_brown">Conditional Search</div>
-            <div class="other_introduction content_word">
-              <h1>Intro</h1>
-              <p>
-                Based on the publicly available data we've collected and analyzed, we can help you find the job positions
-                at Google, Apple and Facebook which are suitable for you.
-              </p>
-              <br>
+    <div class="py-2 mt-3">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="card">
+              <div class="card-header">
+                <h3>Intro</h3>
+              </div>
+              <div class="card-body">
+                Based on the publicly available data we've collected and analyzed, we can help you find the job positions at Google, Apple and Facebook which are suitable for you.
+              </div>
             </div>
-            <hr class="line" />
-            <div class="search">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="py-2">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="card">
+              <div class="card-header">
+                <h3>Charts<br></h3>
+              </div>
+              <div class="card-body mx-3">
+                <div class="bookmark">
+                  <i class="fas fa-bookmark fa-lg color_green"></i>
+                  <button id="btn_google" class="btn btn-link word_green content_word ml-2">Google</button>
+                  <button id="btn_apple" class="btn btn-link word_green content_word ml-2">Apple</button>
+                  <button id="btn_facebook" class="btn btn-link word_green content_word ml-2">Facebook</button>
+                  <div class="search_result radio-group ml-5" style="display:inline;">
+                    <input type="radio" id="option-one" name="selector" class="content_word" checked="" value="min"><label for="option-one" class="pr-3">&nbsp;Minimum Degree</label>
+                    <input type="radio" id="option-two" name="selector" class="content_word" value="pre"><label for="option-two">&nbsp;Preferred Degree</label>
+                  </div>
+                </div>
+              </div>
+              <hr class="line ml-4 mr-4">
+              <div class="search ml-4 mr-4">
                 <div class="degree_select mb-3">
                     Degree
                     <select class="dropdown">
@@ -219,8 +246,8 @@
                 </div>
                 <button id="search_btn" type="button" class="btn btn-secondary btn-lg">Search</button>
             </div>
-            <hr class="line" />
-            <div class="search_result">
+            <hr class="line ml-4 mr-4" />
+            <div class="search_result ml-4 mr-4">
                 <div class="choose_company d-flex justify-content-start">
                     <span>Company</span>
                     <div class="radio-group ml-5">
@@ -233,19 +260,34 @@
                 <div id="facebook_search_table" class="mt-5 sm_word hide"></div>
                 <div id="google_search_table" class="mt-5 sm_word hide"></div>
             </div>
+          </div>
         </div>
+      </div>
     </div>
+  </div>
+  <div class="py-3 bg-dark text-light mt-3" style="">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <p class="mb-0">Copyright © 2019 Anita, Ariel and Marco. All rights reserved.</p>
+        </div>
+      </div>
     </div>
-    <script src="../tool/jquery-3.3.1.min.js"></script>
-    <script src="../tool/bootstrap-4.0.0/dist/js/bootstrap.min.js"></script>
-    <script src="../tool/particles.min.js"></script>
-    <script src="../tool/stats.min.js"></script>
-    <script src="../tool/greensock-js/src/minified/TweenMax.min.js"></script>
-    <script src="../tool/greensock-js/src/minified/plugins/ScrollToPlugin.min.js"></script>
-    <script src="../tool/SplitText.min.js"></script>
-    <script src="../tool/jquery.csv.min.js"></script>
-    <script src="../js/other.js"></script>
-    <script src="../js/search.js"></script>
+  </div>
+  <script src="../tool/jquery-3.3.1.min.js"></script>
+  <script src="../tool/jquery.csv.min.js"></script>
+  <script src="../tool/plotly-latest.min.js"></script>
+  <script src="../tool/bootstrap-4.0.0/dist/js/bootstrap.min.js"></script>
+  <script src="../tool/particles.min.js"></script>
+  <script src="../tool/stats.min.js"></script>
+  <script src="../tool/greensock-js/src/minified/TweenMax.min.js"></script>
+  <script src="../tool/greensock-js/src/minified/plugins/ScrollToPlugin.min.js"></script>
+  <script src="../tool/SplitText.min.js"></script>
+  <script src="../js/other.js"></script>
+  <script src="../js/search.js"></script>
+  <svg id="js-plotly-tester" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position: absolute; left: -10000px; top: -10000px; width: 9000px; height: 9000px; z-index: 1;">
+    <path class="js-reference-point" d="M0,0H1V1H0Z" style="stroke-width: 0; fill: black;"></path>
+  </svg>
 </body>
 
 </html>
