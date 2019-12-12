@@ -8,15 +8,15 @@
 
 select {
   background-image:
-  linear-gradient(45deg, transparent 50%, #4C4C4E 50%),
-  linear-gradient(135deg, #4C4C4E 50%, transparent 50%);
+    linear-gradient(45deg, transparent 50%, #4C4C4E 50%),
+    linear-gradient(135deg, #4C4C4E 50%, transparent 50%);
   background-position:
-  calc(100% - 20px) calc(1em + 2px),
-  calc(100% - 15px) calc(1em + 2px);
+    calc(100% - 20px) calc(1em + 2px),
+    calc(100% - 15px) calc(1em + 2px);
   background-size:
-  5px 5px,
-  5px 5px,
-  1px 1.5em;
+    5px 5px,
+    5px 5px,
+    1px 1.5em;
   background-repeat: no-repeat;
 
   margin-left: 20px;
@@ -34,15 +34,15 @@ select {
 
 select:focus {
   background-image:
-  linear-gradient(45deg, transparent 50%, #8d776e 50%),
-  linear-gradient(135deg, #8d776e 50%, transparent 50%);
+    linear-gradient(45deg, transparent 50%, #8d776e 50%),
+    linear-gradient(135deg, #8d776e 50%, transparent 50%);
   background-position:
-  calc(100% - 20px) calc(1em + 2px),
-  calc(100% - 15px) calc(1em + 2px);
+    calc(100% - 20px) calc(1em + 2px),
+    calc(100% - 15px) calc(1em + 2px);
   background-size:
-  5px 5px,
-  5px 5px,
-  1px 1.5em;
+    5px 5px,
+    5px 5px,
+    1px 1.5em;
   background-repeat: no-repeat;
   border-color: #495366;
   outline: 0;
