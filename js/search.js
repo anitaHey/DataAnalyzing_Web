@@ -269,7 +269,7 @@ $(document).ready(function() {
         for (num = 0; num < page; num++) {
             check = 1;
             if (num == 0) {
-                pagination = pagination + '<nav aria-label="Page navigation example"><ul class="pagination"><li class="page-item"><button class="page-link" href="#" aria-label="Previous " id="' + company + '_previous" tabindex="-1"><span aria-hidden="true">&laquo;</span><span class="sr-only">Previous</span></button></li><li class="page-item active"><select class="h-100" id="' + company + '_selectPage" style="width:80px;"><option>1</option></li>';
+                pagination = pagination + '<nav aria-label="Page navigation example"><ul class="pagination"><li class="page-item"><button class="page-link" href="#" aria-label="Previous " id="' + company + '_previous" tabindex="-1"><span aria-hidden="true">&laquo;</span><span class="sr-only">Previous</span></button></li><li class="page-item active"><select class="h-100" id="' + company + '_selectPage" style="width:80px; border-radius: 0px;"><option>1</option></li>';
                 table_word = table_word + '<div id="' + company + '_search_page1">';
             } else {
                 pagination = pagination + '<li class="page-item"><option>' + (num + 1) + '</option></li>';
