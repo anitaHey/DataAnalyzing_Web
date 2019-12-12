@@ -6518,3 +6518,7 @@ html, body {
 
 .cover {
   min-height: 100%; }
+
+.hide {
+  opacity: 0;
+  display: none; }
