@@ -59,7 +59,7 @@ $("#option-one").click(function(){
 })
 
 var min_layout = {
-  title: 'Minimum Work Experience',
+  title: 'Minimum Skill Requirements',
   xaxis: {
     title: 'Programming Language',
     type: 'category',
@@ -67,7 +67,7 @@ var min_layout = {
   },
 };
 var pre_layout = {
-  title: 'Preference Work Experience',
+  title: 'Preference Skill Requirements',
   xaxis: {
     title: 'Programming Language',
     type: 'category',
