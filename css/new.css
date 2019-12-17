@@ -1,0 +1,136 @@
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+    line-height: 35px;
+}
+
+.min-height {
+    min-height: 100%;
+}
+
+.hide {
+    opacity: 0;
+    display: none;
+}
+
+.second {
+    margin-top: 10vh;
+}
+
+.index-btn {
+    display: inline-block;
+    width: 220px;
+    height: 100px;
+
+    border: solid 3px #2e3440;
+    color: #2e3440;
+
+    font-size: 20px;
+    line-height: 35px;
+
+    white-space: normal;
+    word-wrap: break-word;
+
+    padding: 5px;
+    margin-right: 80px;
+}
+
+.index-btn:hover,
+input[name="question"]:checked+label {
+    background-color: #2e3440;
+    color: #e6e6e6;
+}
+
+input[name="question"] {
+    display: none;
+}
+
+.ans_div {
+    width: 100%;
+    height: 800px;
+
+    border: solid 4px #2e3440;
+    background-color: #FCFCFC;
+
+    position: relative;
+}
+
+.ans_head {
+    font-size: 20px;
+    color: #33363b;
+    height: 100px;
+
+    margin-top: 50px;
+}
+
+.ans_radio {
+    width: 350px;
+}
+
+.ans_radio label:hover {
+    color: #525252;
+}
+
+.ans_radio input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+}
+
+.ans_radio input[type="radio"]+.radio-label:before {
+    content: '';
+    background: #f4f4f4;
+    border-radius: 100%;
+    border: 1px solid #b4b4b4;
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    position: relative;
+    top: -0.2em;
+    margin-right: 1em;
+    vertical-align: middle;
+    cursor: pointer;
+    text-align: center;
+    transition: all 250ms ease;
+}
+
+.ans_radio input[type="radio"]:checked+.radio-label:before {
+    background-color: #414141;
+    box-shadow: inset 0 0 0 4px #f4f4f4;
+}
+
+.ans_radio input[type="radio"]:focus+.radio-label:before {
+    outline: none;
+    border-color: #414141;
+}
+
+.ans_radio input[type="radio"]:disabled+.radio-label:before {
+    box-shadow: inset 0 0 0 4px #f4f4f4;
+    border-color: #b4b4b4;
+    background: #b4b4b4;
+}
+
+.ans_radio input[type="radio"]+.radio-label:empty:before {
+    margin-right: 0;
+}
+
+.chart {
+    width: 800px;
+    height: 600px;
+}
+
+.img_chart {
+    width: 550px;
+    height: 550px;
+}
+
+.out {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+
+    background-color: transparent;
+    border: 0;
+}
+
+.out:hover {
+    color: #CCCCCC;
+}

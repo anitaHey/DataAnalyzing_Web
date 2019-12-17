@@ -1,17 +1,79 @@
 $(document).ready(function() {
-    $("#btn_google").click(function() {
-        TweenMax.to(window, 2.5, { scrollTo: { y: $('#google').offset().top }, ease: Expo.easeOut, y: -500 });
+    $('input[name=question]').change(function() {
+        var page = $(this).val();
+
+        $('.ans_div').each(function() {
+            $(this).addClass('hide');
+        });
+
+        $('.row1').addClass('hide');
+        $('.row2').addClass('hide');
+
+        if (page < 4) {
+            $('.row1').removeClass('hide');
+        } else {
+            $('.row2').removeClass('hide');
+        }
+
+        $('.div_q' + page).removeClass('hide');
     });
 
-    $("#btn_apple").click(function() {
-        TweenMax.to(window, 2.5, { scrollTo: { y: $('#apple').offset().top }, ease: Expo.easeOut, y: -500 });
+    $('input[name=ans1]').change(function() {
+        var page = $(this).val();
+
+        $('.ans1').each(function() {
+            $(this).addClass('hide');
+        });
+
+        $('#' + page + '_degree').removeClass('hide');
     });
 
-    $("#btn_facebook").click(function() {
-        TweenMax.to(window, 2.5, { scrollTo: { y: $('#facebook').offset().top }, ease: Expo.easeOut, y: -500 });
+    $('input[name=ans2]').change(function() {
+        var page = $(this).val();
+
+        $('.ans2').each(function() {
+            $(this).addClass('hide');
+        });
+
+        $('#' + page + '_work').removeClass('hide');
     });
 
-    $(".button_up").click(function() {
-        TweenMax.to(window, 2.5, { scrollTo: { y: $('.navbar').offset().top }, ease: Expo.easeOut, y: -500 });
+    $('input[name=ans3]').change(function() {
+        var page = $(this).val();
+
+        $('.ans3').each(function() {
+            $(this).addClass('hide');
+        });
+
+        $('#' + page + '_prog').removeClass('hide');
+    });
+
+    $('input[name=ans4]').change(function() {
+        var page = $(this).val();
+
+        $('.ans4').each(function() {
+            $(this).addClass('hide');
+        });
+
+        $('#' + page + '_chart').removeClass('hide');
+    });
+
+    $('input[name=ans5]').change(function() {
+        var page = $(this).val();
+
+        $('.ans5').each(function() {
+            $(this).addClass('hide');
+        });
+
+        $('#' + page + '_key').removeClass('hide');
+    });
+
+    $('.out').click(function() {
+        $('.row1').addClass('hide');
+        $('.row2').addClass('hide');
+
+        $('.ans_div').each(function() {
+            $(this).addClass('hide');
+        });
     });
 });
