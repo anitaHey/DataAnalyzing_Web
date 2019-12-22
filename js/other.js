@@ -86,13 +86,13 @@ $(document).ready(function() {
 
     $('#chart_btn').click(function() {
         $("body,html").animate({
-            scrollTop: $(".third").offset().top
+            scrollTop: $(".second").offset().top
         }, 800);
     });
 
     $('#about_btn').click(function() {
         $("body,html").animate({
-            scrollTop: $(".four").offset().top
+            scrollTop: $(".third").offset().top
         }, 800);
     });
 
@@ -182,5 +182,8 @@ $(document).ready(function() {
         });
 
         $('input[name=question]').prop('checked', false);
+        $("body,html").animate({
+            scrollTop: $('.second').offset().top
+        }, 500);
     });
 });
