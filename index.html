@@ -18,7 +18,7 @@
 </head>
 
 <body class="text-center">
-    <div class="h-100 d-flex flex-column" style="background-image: url(img.png); background-repeat: repeat;">
+    <div class="h-100 d-flex flex-column" style="background-image: url(assets/img.png); background-repeat: repeat;">
         <div class="container mb-auto">
             <div class="row">
                 <div class="mx-auto col-md-11">
@@ -49,16 +49,18 @@
         </div>
         <div class="container mt-auto"></div>
     </div>
-    <div class="h-100 d-flex flex-column" style="background-color:#f5f5f5;">
-        <div class="container first">
+    <div class="h-100 d-flex flex-column first" style="background-color:#f5f5f5;">
+        <div class="container page">
+            <div class="head_bg">簡介影片</div>
             <div id="iframe_video" class="embed-responsive embed-responsive-16by9 d-flex justify-content-center">
                 <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/VNGygZDGzCs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
     </div>
-    <div class="min-height d-flex flex-column" style="background-image: url(img.png); background-repeat: repeat;">
-        <div class="container second">
-            <div class="row d-flex justify-content-center mt-4">
+    <div class="min-height d-flex flex-column third" style="background-image: url(assets/img.png); background-repeat: repeat;">
+        <div class="container page">
+            <div class="head_bg">問題圖表</div>
+            <div class="row d-flex justify-content-center mt-5">
                 <input type="radio" name="question" id="que1" value="1"></input><label class="index-btn" for="que1">軟體業中，碩士學歷是必要的嗎？</label>
                 <input type="radio" name="question" id="que2" value="2"></input><label class="index-btn" for="que2">如果缺乏工作經驗，會處於劣勢嗎？</label>
                 <input type="radio" name="question" id="que3" value="3"></input><label class="index-btn" for="que3">學習什麼樣的程式語言才能符合職場需求？</label>
@@ -88,6 +90,15 @@
                         <div id="apple_degree" class="ans1 mx-4 chart hide"></div>
                         <div id="facebook_degree" class="ans1 mx-4 chart hide"></div>
                     </div>
+                    <hr class="mt-4 mb-3" />
+                    <div class="d-flex justify-content-center align-items-center mb-4">
+                        <img src="assets/idea.png" alt="" style="height:50px;width:50px;" class="mr-3">簡述
+                    </div>
+                    <div>將近 75% 的職缺只要求學士學位，甚至沒有學歷上的要求<br>
+                        <img src="assets/bachelor_subject.png" alt="" class="chart_des_pic mt-3">
+                        <div class="img_source mb-3">資料來源 : 教育部統計處</div>
+                        而可由上圖看出，臺灣大多數選擇就讀研究所的學生為科技相關科系。
+                    </div>
                 </div>
                 <div class="ans_div div_q2 hide">
                     <div class="row ans_head d-flex justify-content-center">
@@ -112,6 +123,15 @@
                         <div id="google_work" class="ans2 mx-4 chart hide"></div>
                         <div id="apple_work" class="ans2 mx-4 chart hide"></div>
                         <div id="facebook_work" class="ans2 mx-4 chart hide"></div>
+                    </div>
+                    <hr class="mt-4 mb-3" />
+                    <div class="d-flex justify-content-center align-items-center mb-4">
+                        <img src="assets/idea.png" alt="" style="height:50px;width:50px;" class="mr-3">簡述
+                    </div>
+                    <div>將近一半的職缺，不要求工作經驗，對新鮮人較友善，只有少部份工作需要資深人員。<br>
+                        <img src="assets/work_exp.png" alt="" class="chart_des_pic mt-3">
+                        <div class="img_source mb-3">資料來源 : 104人力銀行職缺，關鍵字「軟體」</div>
+                        而在眾多臺灣企業當中，需要經驗的職缺，遠大於不需要經驗的。<br>讓許多學生擔心若是工作經驗不足會無法進入大公司。
                     </div>
                 </div>
                 <div class="ans_div div_q3 hide">
@@ -138,6 +158,15 @@
                         <div id="apple_prog" class="ans3 mx-4 chart hide"></div>
                         <div id="facebook_prog" class="ans3 mx-4 chart hide"></div>
                     </div>
+                    <hr class="mt-4 mb-3" />
+                    <div class="d-flex justify-content-center align-items-center mb-4">
+                        <img src="assets/idea.png" alt="" style="height:50px;width:50px;" class="mr-3">簡述
+                    </div>
+                    <div>三間公司偏好能夠活用Python, C++, Java 等語言的軟體工程師。<br>
+                        <img src="assets/language.png" alt="" class="mt-3" style="width:70%;">
+                        <div class="img_source mb-3">資料來源 : TIOBE 程式語言熱門度排名</div>
+                        可由上圖看出，Python, C++, Java 這三個程式語言的熱門度，皆在前五名中。<br>而其中 Python 的熱門度，從 2018 開始有明顯上升。
+                    </div>
                 </div>
             </div>
             <div class="row d-flex justify-content-center mt-4 mb-5">
@@ -152,7 +181,7 @@
                             <div class="row">
                                 <div class="col-6">
                                     <input type="radio" name="ans4" id="ans4-1" value="java" checked></input><label class="radio-label" for="ans4-1">Java</label><br>
-                                    <input type="radio" name="ans4" id="ans4-3" value="pytohn"></input><label class="radio-label" for="ans4-3">Python</label>
+                                    <input type="radio" name="ans4" id="ans4-3" value="python"></input><label class="radio-label" for="ans4-3">Python</label>
                                     <input type="radio" name="ans4" id="ans4-5" value="c"></input><label class="radio-label" for="ans4-5">C++</label>
                                 </div>
                                 <div class="col-6">
@@ -168,7 +197,7 @@
                         <div id="java_chart" class="ans4 mx-4 chart">
                             <img class="img_chart" src="data/png/java.png" alt="">
                         </div>
-                        <div id="pytohn_chart" class="ans4 mx-4 chart hide">
+                        <div id="python_chart" class="ans4 mx-4 chart hide">
                             <img class="img_chart" src="data/png/python.png" alt="">
                         </div>
                         <div id="c_chart" class="ans4 mx-4 chart hide">
@@ -179,6 +208,61 @@
                         </div>
                         <div id="js_chart" class="ans4 mx-4 chart hide">
                             <img class="img_chart" src="data/png/javacript.png" alt="">
+                        </div>
+                    </div>
+                    <hr class="mt-4 mb-3" />
+                    <div class="d-flex justify-content-center align-items-center mb-4">
+                        <img src="assets/idea.png" alt="" style="height:50px;width:50px;" class="mr-3">簡述
+                    </div>
+                    <div>
+                        <div id="python_des" class="lang_des hide">
+                            可由上圖看出，與 python 具關連性的詞彙：<br>
+                            <ul class="lang_width">
+                                <li>data：自動化工作、資料處理</li>
+                                <li>business：商業智慧（BI）</li>
+                                <li>optical：光學感應器、光學模擬</li>
+                                <li>test：軟體自動化測試</li>
+                                <li>park：一個開源的叢集運算框架</li>
+                            </ul>
+                        </div>
+                        <div id="c_des" class="lang_des hide">
+                            可由上圖看出，與 C++ 具關連性的詞彙：<br>
+                            <ul class="lang_width">
+                                <li>system：在作業系統上執行</li>
+                                <li>windows：視窗應用程式</li>
+                                <li>soc：系統單晶片</li>
+                                <li>database：資料庫</li>
+                            </ul>
+                        </div>
+                        <div id="java_des" class="lang_des">
+                            可由上圖看出，與 Java 具關連性的詞彙：<br>
+                            <ul class="lang_width">
+                                <li>nosql：非關聯性資料庫</li>
+                                <li>front：前端(客戶端)</li>
+                                <li>soc：系統單晶片</li>
+                                <li>security：安全性</li>
+                                <li>strong：強參考性</li>
+                            </ul>
+                        </div>
+                        <div id="js_des" class="lang_des hide">
+                            可由上圖看出，與 JavaScript 具關連性的詞彙：<br>
+                            <ul class="lang_width">
+                                <li>css, web, ui：網頁相關</li>
+                                <li>frameworks：框架應用</li>
+                                <li>php：後端語言</li>
+                                <li>automation：自動化測試</li>
+                            </ul>
+                        </div>
+                        <div id="swift_des" class="lang_des hide">
+                            可由上圖看出，與 Swift 具關連性的詞彙：<br>
+                            <ul class="lang_width">
+                                <li>Mobile：手機應用程式</li>
+                                <li>apple：蘋果開發的語言</li>
+                                <li>design：設計模式言</li>
+                                <li>tools：套件管理</li>
+                                <li>soc：系統單晶片</li>
+                                <li>ml：生成機器學習模型的框架</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -214,12 +298,51 @@
                             <img class="img_chart" src="data/png/facebook_key.png" alt="">
                         </div>
                     </div>
+                    <hr class="mt-4 mb-3" />
+                    <div class="d-flex justify-content-center align-items-center mb-4">
+                        <img src="assets/idea.png" alt="" style="height:50px;width:50px;" class="mr-3">簡述
+                    </div>
+                    <div>可由上圖看出，三間公司對於其他方面的要求：<br>
+                        <ul class="lang_width">
+                            <li>溝通技巧（口頭、寫作</li>
+                            <li>人際交往能力</li>
+                            <li>主動自發的工作態度</li>
+                            <li>批判性的思維</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="h-100 d-flex flex-column" style="background-color:#f5f5f5;">
-        <div class="container third">
+    <div class="h-100 d-flex flex-column four" style="background-color:#f5f5f5;">
+        <div class="container page">
+            <div class="head_bg">關於我們</div>
+            <div class="row d-flex justify-content-between mt-5">
+                <div class="name p-4"> <img class="img-fluid d-block" src="https://avatars2.githubusercontent.com/u/39671327?s=460&v=4">
+                    <h4 class="my-3"> <b>Anita Chang</b></h4>
+                    <div>臺北市立大學 資訊科學系</div>
+                    <i class="d-inline fab fa-github"></i>&nbsp;
+                    <a href="https://github.com/anitaHey">
+                        <font color="black">github.com/anitaHey</font>
+                    </a>
+                </div>
+                <div class="name p-4"> <img class="img-fluid d-block" src="https://avatars3.githubusercontent.com/u/34024363?s=460&v=4">
+                    <h4 class="my-3"> <b>Ariel Hsu</b></h4>
+                    <div>臺北市立大學 資訊科學系</div>
+                    <i class="d-inline fab fa-github"></i>&nbsp;
+                    <a href="https://github.com/aarriiel">
+                        <font color="black">github.com/aarriiel</font>
+                    </a>
+                </div>
+                <div class="name p-4"> <img class="img-fluid d-block" src="https://avatars2.githubusercontent.com/u/32998585?s=460&v=4">
+                    <h4 class="my-3"> <b>Marco Wang</b></h4>
+                    <div>臺北市立大學 資訊科學系</div>
+                    <i class="d-inline fab fa-github"></i>&nbsp;
+                    <a href="https://github.com/aesophor">
+                        <font color="black">github.com/aesophor</font>
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
     <div class="py-3 bg-dark text-light" style="">
