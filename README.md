@@ -12,7 +12,6 @@ This website is a extended thought for our data analyze class whitch holded by p
 
 We try to found out some questions with the analysis, and will show the result below!
 
-
 ## Question
 We list some questions about the talent requirement for every company.
 * **Is master's degree required in the software industry?**
@@ -24,3 +23,5 @@ We list some questions about the talent requirement for every company.
 * **What is the purpose for different programming languages?**
 
 * **What do I need except for technical skills?**
+
+And for each questions, we have a analysis and visualization whuch analyzed the data we collected by web crawler. More details can see in the website and kaggle page!
