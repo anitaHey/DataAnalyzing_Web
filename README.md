@@ -14,3 +14,13 @@ We try to found out some questions with the analysis, and will show the result b
 
 
 ## Question
+We list some questions about the talent requirement for every company.
+* **Is master's degree required in the software industry?**
+
+* **Will I be disadvantaged if I have a lack of working experience?**
+
+* **Which programming language will meet requirements in campany?**
+
+* **What is the purpose for different programming languages?**
+
+* **What do I need except for technical skills?**
